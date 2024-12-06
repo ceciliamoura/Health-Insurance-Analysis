@@ -1,0 +1,1338 @@
+,age,sex,bmi,children,smoker,region,charges,age category,bmi category,clusters,cluster
+0,19,female,27.9,0,yes,southwest,16884.924,young adult,overweight,2,purple
+1,18,male,33.77,1,no,southeast,1725.5523,young adult,obese,0,pink
+2,28,male,33.0,3,no,southeast,4449.462,young adult,obese,0,pink
+3,33,male,22.705,0,no,northwest,21984.47061,young adult,healthy weight,1,dark pink
+4,32,male,28.88,0,no,northwest,3866.8552,young adult,overweight,0,pink
+5,31,female,25.74,0,no,southeast,3756.6216,young adult,overweight,0,pink
+6,46,female,33.44,1,no,southeast,8240.5896,middle-aged adult,obese,2,purple
+7,37,female,27.74,3,no,northwest,7281.5056,middle-aged adult,overweight,0,pink
+8,37,male,29.83,2,no,northeast,6406.4107,middle-aged adult,overweight,0,pink
+9,60,female,25.84,0,no,northwest,28923.13692,mature adult,overweight,1,dark pink
+10,25,male,26.22,0,no,northeast,2721.3208,young adult,overweight,0,pink
+11,62,female,26.29,0,yes,southeast,27808.7251,mature adult,overweight,1,dark pink
+12,23,male,34.4,0,no,southwest,1826.843,young adult,obese,0,pink
+13,56,female,39.82,0,no,southeast,11090.7178,mature adult,obese,2,purple
+14,27,male,42.13,0,yes,southeast,39611.7577,young adult,obese,3,dark purple
+15,19,male,24.6,1,no,southwest,1837.237,young adult,healthy weight,0,pink
+16,52,female,30.78,1,no,northeast,10797.3362,mature adult,obese,2,purple
+17,23,male,23.845,0,no,northeast,2395.17155,young adult,healthy weight,0,pink
+18,56,male,40.3,0,no,southwest,10602.385,mature adult,obese,2,purple
+19,30,male,35.3,0,yes,southwest,36837.467,young adult,obese,3,dark purple
+20,60,female,36.005,0,no,northeast,13228.84695,mature adult,obese,2,purple
+21,30,female,32.4,1,no,southwest,4149.736,young adult,obese,0,pink
+22,18,male,34.1,0,no,southeast,1137.011,young adult,obese,0,pink
+23,34,female,31.92,1,yes,northeast,37701.8768,young adult,obese,3,dark purple
+24,37,male,28.025,2,no,northwest,6203.90175,middle-aged adult,overweight,0,pink
+25,59,female,27.72,3,no,southeast,14001.1338,mature adult,overweight,2,purple
+26,63,female,23.085,0,no,northeast,14451.83515,mature adult,healthy weight,2,purple
+27,55,female,32.775,2,no,northwest,12268.63225,mature adult,obese,2,purple
+28,23,male,17.385,1,no,northwest,2775.19215,young adult,underweight,0,pink
+29,31,male,36.3,2,yes,southwest,38711.0,young adult,obese,3,dark purple
+30,22,male,35.6,0,yes,southwest,35585.576,young adult,obese,3,dark purple
+31,18,female,26.315,0,no,northeast,2198.18985,young adult,overweight,0,pink
+32,19,female,28.6,5,no,southwest,4687.797,young adult,overweight,0,pink
+33,63,male,28.31,0,no,northwest,13770.0979,mature adult,overweight,2,purple
+34,28,male,36.4,1,yes,southwest,51194.55914,young adult,obese,3,dark purple
+35,19,male,20.425,0,no,northwest,1625.43375,young adult,healthy weight,0,pink
+36,62,female,32.965,3,no,northwest,15612.19335,mature adult,obese,2,purple
+37,26,male,20.8,0,no,southwest,2302.3,young adult,healthy weight,0,pink
+38,35,male,36.67,1,yes,northeast,39774.2763,middle-aged adult,obese,3,dark purple
+39,60,male,39.9,0,yes,southwest,48173.361,mature adult,obese,3,dark purple
+40,24,female,26.6,0,no,northeast,3046.062,young adult,overweight,0,pink
+41,31,female,36.63,2,no,southeast,4949.7587,young adult,obese,0,pink
+42,41,male,21.78,1,no,southeast,6272.4772,middle-aged adult,healthy weight,0,pink
+43,37,female,30.8,2,no,southeast,6313.759,middle-aged adult,obese,0,pink
+44,38,male,37.05,1,no,northeast,6079.6715,middle-aged adult,obese,0,pink
+45,55,male,37.3,0,no,southwest,20630.28351,mature adult,obese,1,dark pink
+46,18,female,38.665,2,no,northeast,3393.35635,young adult,obese,0,pink
+47,28,female,34.77,0,no,northwest,3556.9223,young adult,obese,0,pink
+48,60,female,24.53,0,no,southeast,12629.8967,mature adult,healthy weight,2,purple
+49,36,male,35.2,1,yes,southeast,38709.176,middle-aged adult,obese,3,dark purple
+50,18,female,35.625,0,no,northeast,2211.13075,young adult,obese,0,pink
+51,21,female,33.63,2,no,northwest,3579.8287,young adult,obese,0,pink
+52,48,male,28.0,1,yes,southwest,23568.272,middle-aged adult,overweight,1,dark pink
+53,36,male,34.43,0,yes,southeast,37742.5757,middle-aged adult,obese,3,dark purple
+54,40,female,28.69,3,no,northwest,8059.6791,middle-aged adult,overweight,2,purple
+55,58,male,36.955,2,yes,northwest,47496.49445,mature adult,obese,3,dark purple
+56,58,female,31.825,2,no,northeast,13607.36875,mature adult,obese,2,purple
+57,18,male,31.68,2,yes,southeast,34303.1672,young adult,obese,3,dark purple
+58,53,female,22.88,1,yes,southeast,23244.7902,mature adult,healthy weight,1,dark pink
+59,34,female,37.335,2,no,northwest,5989.52365,young adult,obese,0,pink
+60,43,male,27.36,3,no,northeast,8606.2174,middle-aged adult,overweight,2,purple
+61,25,male,33.66,4,no,southeast,4504.6624,young adult,obese,0,pink
+62,64,male,24.7,1,no,northwest,30166.61817,mature adult,healthy weight,1,dark pink
+63,28,female,25.935,1,no,northwest,4133.64165,young adult,overweight,0,pink
+64,20,female,22.42,0,yes,northwest,14711.7438,young adult,healthy weight,2,purple
+65,19,female,28.9,0,no,southwest,1743.214,young adult,overweight,0,pink
+66,61,female,39.1,2,no,southwest,14235.072,mature adult,obese,2,purple
+67,40,male,26.315,1,no,northwest,6389.37785,middle-aged adult,overweight,0,pink
+68,40,female,36.19,0,no,southeast,5920.1041,middle-aged adult,obese,0,pink
+69,28,male,23.98,3,yes,southeast,17663.1442,young adult,healthy weight,1,dark pink
+70,27,female,24.75,0,yes,southeast,16577.7795,young adult,healthy weight,2,purple
+71,31,male,28.5,5,no,northeast,6799.458,young adult,overweight,0,pink
+72,53,female,28.1,3,no,southwest,11741.726,mature adult,overweight,2,purple
+73,58,male,32.01,1,no,southeast,11946.6259,mature adult,obese,2,purple
+74,44,male,27.4,2,no,southwest,7726.854,middle-aged adult,overweight,0,pink
+75,57,male,34.01,0,no,northwest,11356.6609,mature adult,obese,2,purple
+76,29,female,29.59,1,no,southeast,3947.4131,young adult,overweight,0,pink
+77,21,male,35.53,0,no,southeast,1532.4697,young adult,obese,0,pink
+78,22,female,39.805,0,no,northeast,2755.02095,young adult,obese,0,pink
+79,41,female,32.965,0,no,northwest,6571.02435,middle-aged adult,obese,0,pink
+80,31,male,26.885,1,no,northeast,4441.21315,young adult,overweight,0,pink
+81,45,female,38.285,0,no,northeast,7935.29115,middle-aged adult,obese,2,purple
+82,22,male,37.62,1,yes,southeast,37165.1638,young adult,obese,3,dark purple
+83,48,female,41.23,4,no,northwest,11033.6617,middle-aged adult,obese,2,purple
+84,37,female,34.8,2,yes,southwest,39836.519,middle-aged adult,obese,3,dark purple
+85,45,male,22.895,2,yes,northwest,21098.55405,middle-aged adult,healthy weight,1,dark pink
+86,57,female,31.16,0,yes,northwest,43578.9394,mature adult,obese,3,dark purple
+87,56,female,27.2,0,no,southwest,11073.176,mature adult,overweight,2,purple
+88,46,female,27.74,0,no,northwest,8026.6666,middle-aged adult,overweight,2,purple
+89,55,female,26.98,0,no,northwest,11082.5772,mature adult,overweight,2,purple
+90,21,female,39.49,0,no,southeast,2026.9741,young adult,obese,0,pink
+91,53,female,24.795,1,no,northwest,10942.13205,mature adult,healthy weight,2,purple
+92,59,male,29.83,3,yes,northeast,30184.9367,mature adult,overweight,1,dark pink
+93,35,male,34.77,2,no,northwest,5729.0053,middle-aged adult,obese,0,pink
+94,64,female,31.3,2,yes,southwest,47291.055,mature adult,obese,3,dark purple
+95,28,female,37.62,1,no,southeast,3766.8838,young adult,obese,0,pink
+96,54,female,30.8,3,no,southwest,12105.32,mature adult,obese,2,purple
+97,55,male,38.28,0,no,southeast,10226.2842,mature adult,obese,2,purple
+98,56,male,19.95,0,yes,northeast,22412.6485,mature adult,healthy weight,1,dark pink
+99,38,male,19.3,0,yes,southwest,15820.699,middle-aged adult,healthy weight,2,purple
+100,41,female,31.6,0,no,southwest,6186.127,middle-aged adult,obese,0,pink
+101,30,male,25.46,0,no,northeast,3645.0894,young adult,overweight,0,pink
+102,18,female,30.115,0,no,northeast,21344.8467,young adult,obese,1,dark pink
+103,61,female,29.92,3,yes,southeast,30942.1918,mature adult,overweight,1,dark pink
+104,34,female,27.5,1,no,southwest,5003.853,young adult,overweight,0,pink
+105,20,male,28.025,1,yes,northwest,17560.37975,young adult,overweight,1,dark pink
+106,19,female,28.4,1,no,southwest,2331.519,young adult,overweight,0,pink
+107,26,male,30.875,2,no,northwest,3877.30425,young adult,obese,0,pink
+108,29,male,27.94,0,no,southeast,2867.1196,young adult,overweight,0,pink
+109,63,male,35.09,0,yes,southeast,47055.5321,mature adult,obese,3,dark purple
+110,54,male,33.63,1,no,northwest,10825.2537,mature adult,obese,2,purple
+111,55,female,29.7,2,no,southwest,11881.358,mature adult,overweight,2,purple
+112,37,male,30.8,0,no,southwest,4646.759,middle-aged adult,obese,0,pink
+113,21,female,35.72,0,no,northwest,2404.7338,young adult,obese,0,pink
+114,52,male,32.205,3,no,northeast,11488.31695,mature adult,obese,2,purple
+115,60,male,28.595,0,no,northeast,30259.99556,mature adult,overweight,1,dark pink
+116,58,male,49.06,0,no,southeast,11381.3254,mature adult,obese,2,purple
+117,29,female,27.94,1,yes,southeast,19107.7796,young adult,overweight,1,dark pink
+118,49,female,27.17,0,no,southeast,8601.3293,middle-aged adult,overweight,2,purple
+119,37,female,23.37,2,no,northwest,6686.4313,middle-aged adult,healthy weight,0,pink
+120,44,male,37.1,2,no,southwest,7740.337,middle-aged adult,obese,0,pink
+121,18,male,23.75,0,no,northeast,1705.6245,young adult,healthy weight,0,pink
+122,20,female,28.975,0,no,northwest,2257.47525,young adult,overweight,0,pink
+123,44,male,31.35,1,yes,northeast,39556.4945,middle-aged adult,obese,3,dark purple
+124,47,female,33.915,3,no,northwest,10115.00885,middle-aged adult,obese,2,purple
+125,26,female,28.785,0,no,northeast,3385.39915,young adult,overweight,0,pink
+126,19,female,28.3,0,yes,southwest,17081.08,young adult,overweight,1,dark pink
+127,52,female,37.4,0,no,southwest,9634.538,mature adult,obese,2,purple
+128,32,female,17.765,2,yes,northwest,32734.1863,young adult,underweight,3,dark purple
+129,38,male,34.7,2,no,southwest,6082.405,middle-aged adult,obese,0,pink
+130,59,female,26.505,0,no,northeast,12815.44495,mature adult,overweight,2,purple
+131,61,female,22.04,0,no,northeast,13616.3586,mature adult,healthy weight,2,purple
+132,53,female,35.9,2,no,southwest,11163.568,mature adult,obese,2,purple
+133,19,male,25.555,0,no,northwest,1632.56445,young adult,overweight,0,pink
+134,20,female,28.785,0,no,northeast,2457.21115,young adult,overweight,0,pink
+135,22,female,28.05,0,no,southeast,2155.6815,young adult,overweight,0,pink
+136,19,male,34.1,0,no,southwest,1261.442,young adult,obese,0,pink
+137,22,male,25.175,0,no,northwest,2045.68525,young adult,overweight,0,pink
+138,54,female,31.9,3,no,southeast,27322.73386,mature adult,obese,1,dark pink
+139,22,female,36.0,0,no,southwest,2166.732,young adult,obese,0,pink
+140,34,male,22.42,2,no,northeast,27375.90478,young adult,healthy weight,1,dark pink
+141,26,male,32.49,1,no,northeast,3490.5491,young adult,obese,0,pink
+142,34,male,25.3,2,yes,southeast,18972.495,young adult,overweight,1,dark pink
+143,29,male,29.735,2,no,northwest,18157.876,young adult,overweight,1,dark pink
+144,30,male,28.69,3,yes,northwest,20745.9891,young adult,overweight,1,dark pink
+145,29,female,38.83,3,no,southeast,5138.2567,young adult,obese,0,pink
+146,46,male,30.495,3,yes,northwest,40720.55105,middle-aged adult,obese,3,dark purple
+147,51,female,37.73,1,no,southeast,9877.6077,mature adult,obese,2,purple
+148,53,female,37.43,1,no,northwest,10959.6947,mature adult,obese,2,purple
+149,19,male,28.4,1,no,southwest,1842.519,young adult,overweight,0,pink
+150,35,male,24.13,1,no,northwest,5125.2157,middle-aged adult,healthy weight,0,pink
+151,48,male,29.7,0,no,southeast,7789.635,middle-aged adult,overweight,2,purple
+152,32,female,37.145,3,no,northeast,6334.34355,young adult,obese,0,pink
+153,42,female,23.37,0,yes,northeast,19964.7463,middle-aged adult,healthy weight,1,dark pink
+154,40,female,25.46,1,no,northeast,7077.1894,middle-aged adult,overweight,0,pink
+155,44,male,39.52,0,no,northwest,6948.7008,middle-aged adult,obese,0,pink
+156,48,male,24.42,0,yes,southeast,21223.6758,middle-aged adult,healthy weight,1,dark pink
+157,18,male,25.175,0,yes,northeast,15518.18025,young adult,overweight,2,purple
+158,30,male,35.53,0,yes,southeast,36950.2567,young adult,obese,3,dark purple
+159,50,female,27.83,3,no,southeast,19749.38338,mature adult,overweight,1,dark pink
+160,42,female,26.6,0,yes,northwest,21348.706,middle-aged adult,overweight,1,dark pink
+161,18,female,36.85,0,yes,southeast,36149.4835,young adult,obese,3,dark purple
+162,54,male,39.6,1,no,southwest,10450.552,mature adult,obese,2,purple
+163,32,female,29.8,2,no,southwest,5152.134,young adult,overweight,0,pink
+164,37,male,29.64,0,no,northwest,5028.1466,middle-aged adult,overweight,0,pink
+165,47,male,28.215,4,no,northeast,10407.08585,middle-aged adult,overweight,2,purple
+166,20,female,37.0,5,no,southwest,4830.63,young adult,obese,0,pink
+167,32,female,33.155,3,no,northwest,6128.79745,young adult,obese,0,pink
+168,19,female,31.825,1,no,northwest,2719.27975,young adult,obese,0,pink
+169,27,male,18.905,3,no,northeast,4827.90495,young adult,healthy weight,0,pink
+170,63,male,41.47,0,no,southeast,13405.3903,mature adult,obese,2,purple
+171,49,male,30.3,0,no,southwest,8116.68,middle-aged adult,obese,2,purple
+172,18,male,15.96,0,no,northeast,1694.7964,young adult,underweight,0,pink
+173,35,female,34.8,1,no,southwest,5246.047,middle-aged adult,obese,0,pink
+174,24,female,33.345,0,no,northwest,2855.43755,young adult,obese,0,pink
+175,63,female,37.7,0,yes,southwest,48824.45,mature adult,obese,3,dark purple
+176,38,male,27.835,2,no,northwest,6455.86265,middle-aged adult,overweight,0,pink
+177,54,male,29.2,1,no,southwest,10436.096,mature adult,overweight,2,purple
+178,46,female,28.9,2,no,southwest,8823.279,middle-aged adult,overweight,2,purple
+179,41,female,33.155,3,no,northeast,8538.28845,middle-aged adult,obese,2,purple
+180,58,male,28.595,0,no,northwest,11735.87905,mature adult,overweight,2,purple
+181,18,female,38.28,0,no,southeast,1631.8212,young adult,obese,0,pink
+182,22,male,19.95,3,no,northeast,4005.4225,young adult,healthy weight,0,pink
+183,44,female,26.41,0,no,northwest,7419.4779,middle-aged adult,overweight,0,pink
+184,44,male,30.69,2,no,southeast,7731.4271,middle-aged adult,obese,0,pink
+185,36,male,41.895,3,yes,northeast,43753.33705,middle-aged adult,obese,3,dark purple
+186,26,female,29.92,2,no,southeast,3981.9768,young adult,overweight,0,pink
+187,30,female,30.9,3,no,southwest,5325.651,young adult,obese,0,pink
+188,41,female,32.2,1,no,southwest,6775.961,middle-aged adult,obese,0,pink
+189,29,female,32.11,2,no,northwest,4922.9159,young adult,obese,0,pink
+190,61,male,31.57,0,no,southeast,12557.6053,mature adult,obese,2,purple
+191,36,female,26.2,0,no,southwest,4883.866,middle-aged adult,overweight,0,pink
+192,25,male,25.74,0,no,southeast,2137.6536,young adult,overweight,0,pink
+193,56,female,26.6,1,no,northwest,12044.342,mature adult,overweight,2,purple
+194,18,male,34.43,0,no,southeast,1137.4697,young adult,obese,0,pink
+195,19,male,30.59,0,no,northwest,1639.5631,young adult,obese,0,pink
+196,39,female,32.8,0,no,southwest,5649.715,middle-aged adult,obese,0,pink
+197,45,female,28.6,2,no,southeast,8516.829,middle-aged adult,overweight,2,purple
+198,51,female,18.05,0,no,northwest,9644.2525,mature adult,underweight,2,purple
+199,64,female,39.33,0,no,northeast,14901.5167,mature adult,obese,2,purple
+200,19,female,32.11,0,no,northwest,2130.6759,young adult,obese,0,pink
+201,48,female,32.23,1,no,southeast,8871.1517,middle-aged adult,obese,2,purple
+202,60,female,24.035,0,no,northwest,13012.20865,mature adult,healthy weight,2,purple
+203,27,female,36.08,0,yes,southeast,37133.8982,young adult,obese,3,dark purple
+204,46,male,22.3,0,no,southwest,7147.105,middle-aged adult,healthy weight,0,pink
+205,28,female,28.88,1,no,northeast,4337.7352,young adult,overweight,0,pink
+206,59,male,26.4,0,no,southeast,11743.299,mature adult,overweight,2,purple
+207,35,male,27.74,2,yes,northeast,20984.0936,middle-aged adult,overweight,1,dark pink
+208,63,female,31.8,0,no,southwest,13880.949,mature adult,obese,2,purple
+209,40,male,41.23,1,no,northeast,6610.1097,middle-aged adult,obese,0,pink
+210,20,male,33.0,1,no,southwest,1980.07,young adult,obese,0,pink
+211,40,male,30.875,4,no,northwest,8162.71625,middle-aged adult,obese,2,purple
+212,24,male,28.5,2,no,northwest,3537.703,young adult,overweight,0,pink
+213,34,female,26.73,1,no,southeast,5002.7827,young adult,overweight,0,pink
+214,45,female,30.9,2,no,southwest,8520.026,middle-aged adult,obese,2,purple
+215,41,female,37.1,2,no,southwest,7371.772,middle-aged adult,obese,0,pink
+216,53,female,26.6,0,no,northwest,10355.641,mature adult,overweight,2,purple
+217,27,male,23.1,0,no,southeast,2483.736,young adult,healthy weight,0,pink
+218,26,female,29.92,1,no,southeast,3392.9768,young adult,overweight,0,pink
+219,24,female,23.21,0,no,southeast,25081.76784,young adult,healthy weight,1,dark pink
+220,34,female,33.7,1,no,southwest,5012.471,young adult,obese,0,pink
+221,53,female,33.25,0,no,northeast,10564.8845,mature adult,obese,2,purple
+222,32,male,30.8,3,no,southwest,5253.524,young adult,obese,0,pink
+223,19,male,34.8,0,yes,southwest,34779.615,young adult,obese,3,dark purple
+224,42,male,24.64,0,yes,southeast,19515.5416,middle-aged adult,healthy weight,1,dark pink
+225,55,male,33.88,3,no,southeast,11987.1682,mature adult,obese,2,purple
+226,28,male,38.06,0,no,southeast,2689.4954,young adult,obese,0,pink
+227,58,female,41.91,0,no,southeast,24227.33724,mature adult,obese,1,dark pink
+228,41,female,31.635,1,no,northeast,7358.17565,middle-aged adult,obese,0,pink
+229,47,male,25.46,2,no,northeast,9225.2564,middle-aged adult,overweight,2,purple
+230,42,female,36.195,1,no,northwest,7443.64305,middle-aged adult,obese,0,pink
+231,59,female,27.83,3,no,southeast,14001.2867,mature adult,overweight,2,purple
+232,19,female,17.8,0,no,southwest,1727.785,young adult,underweight,0,pink
+233,59,male,27.5,1,no,southwest,12333.828,mature adult,overweight,2,purple
+234,39,male,24.51,2,no,northwest,6710.1919,middle-aged adult,healthy weight,0,pink
+235,40,female,22.22,2,yes,southeast,19444.2658,middle-aged adult,healthy weight,1,dark pink
+236,18,female,26.73,0,no,southeast,1615.7667,young adult,overweight,0,pink
+237,31,male,38.39,2,no,southeast,4463.2051,young adult,obese,0,pink
+238,19,male,29.07,0,yes,northwest,17352.6803,young adult,overweight,1,dark pink
+239,44,male,38.06,1,no,southeast,7152.6714,middle-aged adult,obese,0,pink
+240,23,female,36.67,2,yes,northeast,38511.6283,young adult,obese,3,dark purple
+241,33,female,22.135,1,no,northeast,5354.07465,young adult,healthy weight,0,pink
+242,55,female,26.8,1,no,southwest,35160.13457,mature adult,overweight,3,dark purple
+243,40,male,35.3,3,no,southwest,7196.867,middle-aged adult,obese,0,pink
+244,63,female,27.74,0,yes,northeast,29523.1656,mature adult,overweight,1,dark pink
+245,54,male,30.02,0,no,northwest,24476.47851,mature adult,obese,1,dark pink
+246,60,female,38.06,0,no,southeast,12648.7034,mature adult,obese,2,purple
+247,24,male,35.86,0,no,southeast,1986.9334,young adult,obese,0,pink
+248,19,male,20.9,1,no,southwest,1832.094,young adult,healthy weight,0,pink
+249,29,male,28.975,1,no,northeast,4040.55825,young adult,overweight,0,pink
+250,18,male,17.29,2,yes,northeast,12829.4551,young adult,underweight,2,purple
+251,63,female,32.2,2,yes,southwest,47305.305,mature adult,obese,3,dark purple
+252,54,male,34.21,2,yes,southeast,44260.7499,mature adult,obese,3,dark purple
+253,27,male,30.3,3,no,southwest,4260.744,young adult,obese,0,pink
+254,50,male,31.825,0,yes,northeast,41097.16175,mature adult,obese,3,dark purple
+255,55,female,25.365,3,no,northeast,13047.33235,mature adult,overweight,2,purple
+256,56,male,33.63,0,yes,northwest,43921.1837,mature adult,obese,3,dark purple
+257,38,female,40.15,0,no,southeast,5400.9805,middle-aged adult,obese,0,pink
+258,51,male,24.415,4,no,northwest,11520.09985,mature adult,healthy weight,2,purple
+259,19,male,31.92,0,yes,northwest,33750.2918,young adult,obese,3,dark purple
+260,58,female,25.2,0,no,southwest,11837.16,mature adult,overweight,2,purple
+261,20,female,26.84,1,yes,southeast,17085.2676,young adult,overweight,1,dark pink
+262,52,male,24.32,3,yes,northeast,24869.8368,mature adult,healthy weight,1,dark pink
+263,19,male,36.955,0,yes,northwest,36219.40545,young adult,obese,3,dark purple
+264,53,female,38.06,3,no,southeast,20462.99766,mature adult,obese,1,dark pink
+265,46,male,42.35,3,yes,southeast,46151.1245,middle-aged adult,obese,3,dark purple
+266,40,male,19.8,1,yes,southeast,17179.522,middle-aged adult,healthy weight,1,dark pink
+267,59,female,32.395,3,no,northeast,14590.63205,mature adult,obese,2,purple
+268,45,male,30.2,1,no,southwest,7441.053,middle-aged adult,obese,0,pink
+269,49,male,25.84,1,no,northeast,9282.4806,middle-aged adult,overweight,2,purple
+270,18,male,29.37,1,no,southeast,1719.4363,young adult,overweight,0,pink
+271,50,male,34.2,2,yes,southwest,42856.838,mature adult,obese,3,dark purple
+272,41,male,37.05,2,no,northwest,7265.7025,middle-aged adult,obese,0,pink
+273,50,male,27.455,1,no,northeast,9617.66245,mature adult,overweight,2,purple
+274,25,male,27.55,0,no,northwest,2523.1695,young adult,overweight,0,pink
+275,47,female,26.6,2,no,northeast,9715.841,middle-aged adult,overweight,2,purple
+276,19,male,20.615,2,no,northwest,2803.69785,young adult,healthy weight,0,pink
+277,22,female,24.3,0,no,southwest,2150.469,young adult,healthy weight,0,pink
+278,59,male,31.79,2,no,southeast,12928.7911,mature adult,obese,2,purple
+279,51,female,21.56,1,no,southeast,9855.1314,mature adult,healthy weight,2,purple
+280,40,female,28.12,1,yes,northeast,22331.5668,middle-aged adult,overweight,1,dark pink
+281,54,male,40.565,3,yes,northeast,48549.17835,mature adult,obese,3,dark purple
+282,30,male,27.645,1,no,northeast,4237.12655,young adult,overweight,0,pink
+283,55,female,32.395,1,no,northeast,11879.10405,mature adult,obese,2,purple
+284,52,female,31.2,0,no,southwest,9625.92,mature adult,obese,2,purple
+285,46,male,26.62,1,no,southeast,7742.1098,middle-aged adult,overweight,0,pink
+286,46,female,48.07,2,no,northeast,9432.9253,middle-aged adult,obese,2,purple
+287,63,female,26.22,0,no,northwest,14256.1928,mature adult,overweight,2,purple
+288,59,female,36.765,1,yes,northeast,47896.79135,mature adult,obese,3,dark purple
+289,52,male,26.4,3,no,southeast,25992.82104,mature adult,overweight,1,dark pink
+290,28,female,33.4,0,no,southwest,3172.018,young adult,obese,0,pink
+291,29,male,29.64,1,no,northeast,20277.80751,young adult,overweight,1,dark pink
+292,25,male,45.54,2,yes,southeast,42112.2356,young adult,obese,3,dark purple
+293,22,female,28.82,0,no,southeast,2156.7518,young adult,overweight,0,pink
+294,25,male,26.8,3,no,southwest,3906.127,young adult,overweight,0,pink
+295,18,male,22.99,0,no,northeast,1704.5681,young adult,healthy weight,0,pink
+296,19,male,27.7,0,yes,southwest,16297.846,young adult,overweight,2,purple
+297,47,male,25.41,1,yes,southeast,21978.6769,middle-aged adult,overweight,1,dark pink
+298,31,male,34.39,3,yes,northwest,38746.3551,young adult,obese,3,dark purple
+299,48,female,28.88,1,no,northwest,9249.4952,middle-aged adult,overweight,2,purple
+300,36,male,27.55,3,no,northeast,6746.7425,middle-aged adult,overweight,0,pink
+301,53,female,22.61,3,yes,northeast,24873.3849,mature adult,healthy weight,1,dark pink
+302,56,female,37.51,2,no,southeast,12265.5069,mature adult,obese,2,purple
+303,28,female,33.0,2,no,southeast,4349.462,young adult,obese,0,pink
+304,57,female,38.0,2,no,southwest,12646.207,mature adult,obese,2,purple
+305,29,male,33.345,2,no,northwest,19442.3535,young adult,obese,1,dark pink
+306,28,female,27.5,2,no,southwest,20177.67113,young adult,overweight,1,dark pink
+307,30,female,33.33,1,no,southeast,4151.0287,young adult,obese,0,pink
+308,58,male,34.865,0,no,northeast,11944.59435,mature adult,obese,2,purple
+309,41,female,33.06,2,no,northwest,7749.1564,middle-aged adult,obese,0,pink
+310,50,male,26.6,0,no,southwest,8444.474,mature adult,overweight,2,purple
+311,19,female,24.7,0,no,southwest,1737.376,young adult,healthy weight,0,pink
+312,43,male,35.97,3,yes,southeast,42124.5153,middle-aged adult,obese,3,dark purple
+313,49,male,35.86,0,no,southeast,8124.4084,middle-aged adult,obese,2,purple
+314,27,female,31.4,0,yes,southwest,34838.873,young adult,obese,3,dark purple
+315,52,male,33.25,0,no,northeast,9722.7695,mature adult,obese,2,purple
+316,50,male,32.205,0,no,northwest,8835.26495,mature adult,obese,2,purple
+317,54,male,32.775,0,no,northeast,10435.06525,mature adult,obese,2,purple
+318,44,female,27.645,0,no,northwest,7421.19455,middle-aged adult,overweight,0,pink
+319,32,male,37.335,1,no,northeast,4667.60765,young adult,obese,0,pink
+320,34,male,25.27,1,no,northwest,4894.7533,young adult,overweight,0,pink
+321,26,female,29.64,4,no,northeast,24671.66334,young adult,overweight,1,dark pink
+322,34,male,30.8,0,yes,southwest,35491.64,young adult,obese,3,dark purple
+323,57,male,40.945,0,no,northeast,11566.30055,mature adult,obese,2,purple
+324,29,male,27.2,0,no,southwest,2866.091,young adult,overweight,0,pink
+325,40,male,34.105,1,no,northeast,6600.20595,middle-aged adult,obese,0,pink
+326,27,female,23.21,1,no,southeast,3561.8889,young adult,healthy weight,0,pink
+327,45,male,36.48,2,yes,northwest,42760.5022,middle-aged adult,obese,3,dark purple
+328,64,female,33.8,1,yes,southwest,47928.03,mature adult,obese,3,dark purple
+329,52,male,36.7,0,no,southwest,9144.565,mature adult,obese,2,purple
+330,61,female,36.385,1,yes,northeast,48517.56315,mature adult,obese,3,dark purple
+331,52,male,27.36,0,yes,northwest,24393.6224,mature adult,overweight,1,dark pink
+332,61,female,31.16,0,no,northwest,13429.0354,mature adult,obese,2,purple
+333,56,female,28.785,0,no,northeast,11658.37915,mature adult,overweight,2,purple
+334,43,female,35.72,2,no,northeast,19144.57652,middle-aged adult,obese,1,dark pink
+335,64,male,34.5,0,no,southwest,13822.803,mature adult,obese,2,purple
+336,60,male,25.74,0,no,southeast,12142.5786,mature adult,overweight,2,purple
+337,62,male,27.55,1,no,northwest,13937.6665,mature adult,overweight,2,purple
+338,50,male,32.3,1,yes,northeast,41919.097,mature adult,obese,3,dark purple
+339,46,female,27.72,1,no,southeast,8232.6388,middle-aged adult,overweight,2,purple
+340,24,female,27.6,0,no,southwest,18955.22017,young adult,overweight,1,dark pink
+341,62,male,30.02,0,no,northwest,13352.0998,mature adult,obese,2,purple
+342,60,female,27.55,0,no,northeast,13217.0945,mature adult,overweight,2,purple
+343,63,male,36.765,0,no,northeast,13981.85035,mature adult,obese,2,purple
+344,49,female,41.47,4,no,southeast,10977.2063,middle-aged adult,obese,2,purple
+345,34,female,29.26,3,no,southeast,6184.2994,young adult,overweight,0,pink
+346,33,male,35.75,2,no,southeast,4889.9995,young adult,obese,0,pink
+347,46,male,33.345,1,no,northeast,8334.45755,middle-aged adult,obese,2,purple
+348,36,female,29.92,1,no,southeast,5478.0368,middle-aged adult,overweight,0,pink
+349,19,male,27.835,0,no,northwest,1635.73365,young adult,overweight,0,pink
+350,57,female,23.18,0,no,northwest,11830.6072,mature adult,healthy weight,2,purple
+351,50,female,25.6,0,no,southwest,8932.084,mature adult,overweight,2,purple
+352,30,female,27.7,0,no,southwest,3554.203,young adult,overweight,0,pink
+353,33,male,35.245,0,no,northeast,12404.8791,young adult,obese,2,purple
+354,18,female,38.28,0,no,southeast,14133.03775,young adult,obese,2,purple
+355,46,male,27.6,0,no,southwest,24603.04837,middle-aged adult,overweight,1,dark pink
+356,46,male,43.89,3,no,southeast,8944.1151,middle-aged adult,obese,2,purple
+357,47,male,29.83,3,no,northwest,9620.3307,middle-aged adult,overweight,2,purple
+358,23,male,41.91,0,no,southeast,1837.2819,young adult,obese,0,pink
+359,18,female,20.79,0,no,southeast,1607.5101,young adult,healthy weight,0,pink
+360,48,female,32.3,2,no,northeast,10043.249,middle-aged adult,obese,2,purple
+361,35,male,30.5,1,no,southwest,4751.07,middle-aged adult,obese,0,pink
+362,19,female,21.7,0,yes,southwest,13844.506,young adult,healthy weight,2,purple
+363,21,female,26.4,1,no,southwest,2597.779,young adult,overweight,0,pink
+364,21,female,21.89,2,no,southeast,3180.5101,young adult,healthy weight,0,pink
+365,49,female,30.78,1,no,northeast,9778.3472,middle-aged adult,obese,2,purple
+366,56,female,32.3,3,no,northeast,13430.265,mature adult,obese,2,purple
+367,42,female,24.985,2,no,northwest,8017.06115,middle-aged adult,healthy weight,2,purple
+368,44,male,32.015,2,no,northwest,8116.26885,middle-aged adult,obese,2,purple
+369,18,male,30.4,3,no,northeast,3481.868,young adult,obese,0,pink
+370,61,female,21.09,0,no,northwest,13415.0381,mature adult,healthy weight,2,purple
+371,57,female,22.23,0,no,northeast,12029.2867,mature adult,healthy weight,2,purple
+372,42,female,33.155,1,no,northeast,7639.41745,middle-aged adult,obese,0,pink
+373,26,male,32.9,2,yes,southwest,36085.219,young adult,obese,3,dark purple
+374,20,male,33.33,0,no,southeast,1391.5287,young adult,obese,0,pink
+375,23,female,28.31,0,yes,northwest,18033.9679,young adult,overweight,1,dark pink
+376,39,female,24.89,3,yes,northeast,21659.9301,middle-aged adult,healthy weight,1,dark pink
+377,24,male,40.15,0,yes,southeast,38126.2465,young adult,obese,3,dark purple
+378,64,female,30.115,3,no,northwest,16455.70785,mature adult,obese,2,purple
+379,62,male,31.46,1,no,southeast,27000.98473,mature adult,obese,1,dark pink
+380,27,female,17.955,2,yes,northeast,15006.57945,young adult,underweight,2,purple
+381,55,male,30.685,0,yes,northeast,42303.69215,mature adult,obese,3,dark purple
+382,55,male,33.0,0,no,southeast,20781.48892,mature adult,obese,1,dark pink
+383,35,female,43.34,2,no,southeast,5846.9176,middle-aged adult,obese,0,pink
+384,44,male,22.135,2,no,northeast,8302.53565,middle-aged adult,healthy weight,2,purple
+385,19,male,34.4,0,no,southwest,1261.859,young adult,obese,0,pink
+386,58,female,39.05,0,no,southeast,11856.4115,mature adult,obese,2,purple
+387,50,male,25.365,2,no,northwest,30284.64294,mature adult,overweight,1,dark pink
+388,26,female,22.61,0,no,northwest,3176.8159,young adult,healthy weight,0,pink
+389,24,female,30.21,3,no,northwest,4618.0799,young adult,obese,0,pink
+390,48,male,35.625,4,no,northeast,10736.87075,middle-aged adult,obese,2,purple
+391,19,female,37.43,0,no,northwest,2138.0707,young adult,obese,0,pink
+392,48,male,31.445,1,no,northeast,8964.06055,middle-aged adult,obese,2,purple
+393,49,male,31.35,1,no,northeast,9290.1395,middle-aged adult,obese,2,purple
+394,46,female,32.3,2,no,northeast,9411.005,middle-aged adult,obese,2,purple
+395,46,male,19.855,0,no,northwest,7526.70645,middle-aged adult,healthy weight,0,pink
+396,43,female,34.4,3,no,southwest,8522.003,middle-aged adult,obese,2,purple
+397,21,male,31.02,0,no,southeast,16586.49771,young adult,obese,2,purple
+398,64,male,25.6,2,no,southwest,14988.432,mature adult,overweight,2,purple
+399,18,female,38.17,0,no,southeast,1631.6683,young adult,obese,0,pink
+400,51,female,20.6,0,no,southwest,9264.797,mature adult,healthy weight,2,purple
+401,47,male,47.52,1,no,southeast,8083.9198,middle-aged adult,obese,2,purple
+402,64,female,32.965,0,no,northwest,14692.66935,mature adult,obese,2,purple
+403,49,male,32.3,3,no,northwest,10269.46,middle-aged adult,obese,2,purple
+404,31,male,20.4,0,no,southwest,3260.199,young adult,healthy weight,0,pink
+405,52,female,38.38,2,no,northeast,11396.9002,mature adult,obese,2,purple
+406,33,female,24.31,0,no,southeast,4185.0979,young adult,healthy weight,0,pink
+407,47,female,23.6,1,no,southwest,8539.671,middle-aged adult,healthy weight,2,purple
+408,38,male,21.12,3,no,southeast,6652.5288,middle-aged adult,healthy weight,0,pink
+409,32,male,30.03,1,no,southeast,4074.4537,young adult,obese,0,pink
+410,19,male,17.48,0,no,northwest,1621.3402,young adult,underweight,0,pink
+411,44,female,20.235,1,yes,northeast,19594.80965,middle-aged adult,healthy weight,1,dark pink
+412,26,female,17.195,2,yes,northeast,14455.64405,young adult,underweight,2,purple
+413,25,male,23.9,5,no,southwest,5080.096,young adult,healthy weight,0,pink
+414,19,female,35.15,0,no,northwest,2134.9015,young adult,obese,0,pink
+415,43,female,35.64,1,no,southeast,7345.7266,middle-aged adult,obese,0,pink
+416,52,male,34.1,0,no,southeast,9140.951,mature adult,obese,2,purple
+417,36,female,22.6,2,yes,southwest,18608.262,middle-aged adult,healthy weight,1,dark pink
+418,64,male,39.16,1,no,southeast,14418.2804,mature adult,obese,2,purple
+419,63,female,26.98,0,yes,northwest,28950.4692,mature adult,overweight,1,dark pink
+420,64,male,33.88,0,yes,southeast,46889.2612,mature adult,obese,3,dark purple
+421,61,male,35.86,0,yes,southeast,46599.1084,mature adult,obese,3,dark purple
+422,40,male,32.775,1,yes,northeast,39125.33225,middle-aged adult,obese,3,dark purple
+423,25,male,30.59,0,no,northeast,2727.3951,young adult,obese,0,pink
+424,48,male,30.2,2,no,southwest,8968.33,middle-aged adult,obese,2,purple
+425,45,male,24.31,5,no,southeast,9788.8659,middle-aged adult,healthy weight,2,purple
+426,38,female,27.265,1,no,northeast,6555.07035,middle-aged adult,overweight,0,pink
+427,18,female,29.165,0,no,northeast,7323.734819,young adult,overweight,0,pink
+428,21,female,16.815,1,no,northeast,3167.45585,young adult,underweight,0,pink
+429,27,female,30.4,3,no,northwest,18804.7524,young adult,obese,1,dark pink
+430,19,male,33.1,0,no,southwest,23082.95533,young adult,obese,1,dark pink
+431,29,female,20.235,2,no,northwest,4906.40965,young adult,healthy weight,0,pink
+432,42,male,26.9,0,no,southwest,5969.723,middle-aged adult,overweight,0,pink
+433,60,female,30.5,0,no,southwest,12638.195,mature adult,obese,2,purple
+434,31,male,28.595,1,no,northwest,4243.59005,young adult,overweight,0,pink
+435,60,male,33.11,3,no,southeast,13919.8229,mature adult,obese,2,purple
+436,22,male,31.73,0,no,northeast,2254.7967,young adult,obese,0,pink
+437,35,male,28.9,3,no,southwest,5926.846,middle-aged adult,overweight,0,pink
+438,52,female,46.75,5,no,southeast,12592.5345,mature adult,obese,2,purple
+439,26,male,29.45,0,no,northeast,2897.3235,young adult,overweight,0,pink
+440,31,female,32.68,1,no,northwest,4738.2682,young adult,obese,0,pink
+441,33,female,33.5,0,yes,southwest,37079.372,young adult,obese,3,dark purple
+442,18,male,43.01,0,no,southeast,1149.3959,young adult,obese,0,pink
+443,59,female,36.52,1,no,southeast,28287.89766,mature adult,obese,1,dark pink
+444,56,male,26.695,1,yes,northwest,26109.32905,mature adult,overweight,1,dark pink
+445,45,female,33.1,0,no,southwest,7345.084,middle-aged adult,obese,0,pink
+446,60,male,29.64,0,no,northeast,12730.9996,mature adult,overweight,2,purple
+447,56,female,25.65,0,no,northwest,11454.0215,mature adult,overweight,2,purple
+448,40,female,29.6,0,no,southwest,5910.944,middle-aged adult,overweight,0,pink
+449,35,male,38.6,1,no,southwest,4762.329,middle-aged adult,obese,0,pink
+450,39,male,29.6,4,no,southwest,7512.267,middle-aged adult,overweight,0,pink
+451,30,male,24.13,1,no,northwest,4032.2407,young adult,healthy weight,0,pink
+452,24,male,23.4,0,no,southwest,1969.614,young adult,healthy weight,0,pink
+453,20,male,29.735,0,no,northwest,1769.53165,young adult,overweight,0,pink
+454,32,male,46.53,2,no,southeast,4686.3887,young adult,obese,0,pink
+455,59,male,37.4,0,no,southwest,21797.0004,mature adult,obese,1,dark pink
+456,55,female,30.14,2,no,southeast,11881.9696,mature adult,obese,2,purple
+457,57,female,30.495,0,no,northwest,11840.77505,mature adult,obese,2,purple
+458,56,male,39.6,0,no,southwest,10601.412,mature adult,obese,2,purple
+459,40,female,33.0,3,no,southeast,7682.67,middle-aged adult,obese,0,pink
+460,49,female,36.63,3,no,southeast,10381.4787,middle-aged adult,obese,2,purple
+461,42,male,30.0,0,yes,southwest,22144.032,middle-aged adult,obese,1,dark pink
+462,62,female,38.095,2,no,northeast,15230.32405,mature adult,obese,2,purple
+463,56,male,25.935,0,no,northeast,11165.41765,mature adult,overweight,2,purple
+464,19,male,25.175,0,no,northwest,1632.03625,young adult,overweight,0,pink
+465,30,female,28.38,1,yes,southeast,19521.9682,young adult,overweight,1,dark pink
+466,60,female,28.7,1,no,southwest,13224.693,mature adult,overweight,2,purple
+467,56,female,33.82,2,no,northwest,12643.3778,mature adult,obese,2,purple
+468,28,female,24.32,1,no,northeast,23288.9284,young adult,healthy weight,1,dark pink
+469,18,female,24.09,1,no,southeast,2201.0971,young adult,healthy weight,0,pink
+470,27,male,32.67,0,no,southeast,2497.0383,young adult,obese,0,pink
+471,18,female,30.115,0,no,northeast,2203.47185,young adult,obese,0,pink
+472,19,female,29.8,0,no,southwest,1744.465,young adult,overweight,0,pink
+473,47,female,33.345,0,no,northeast,20878.78443,middle-aged adult,obese,1,dark pink
+474,54,male,25.1,3,yes,southwest,25382.297,mature adult,overweight,1,dark pink
+475,61,male,28.31,1,yes,northwest,28868.6639,mature adult,overweight,1,dark pink
+476,24,male,28.5,0,yes,northeast,35147.52848,young adult,overweight,3,dark purple
+477,25,male,35.625,0,no,northwest,2534.39375,young adult,obese,0,pink
+478,21,male,36.85,0,no,southeast,1534.3045,young adult,obese,0,pink
+479,23,male,32.56,0,no,southeast,1824.2854,young adult,obese,0,pink
+480,63,male,41.325,3,no,northwest,15555.18875,mature adult,obese,2,purple
+481,49,male,37.51,2,no,southeast,9304.7019,middle-aged adult,obese,2,purple
+482,18,female,31.35,0,no,southeast,1622.1885,young adult,obese,0,pink
+483,51,female,39.5,1,no,southwest,9880.068,mature adult,obese,2,purple
+484,48,male,34.3,3,no,southwest,9563.029,middle-aged adult,obese,2,purple
+485,31,female,31.065,0,no,northeast,4347.02335,young adult,obese,0,pink
+486,54,female,21.47,3,no,northwest,12475.3513,mature adult,healthy weight,2,purple
+487,19,male,28.7,0,no,southwest,1253.936,young adult,overweight,0,pink
+488,44,female,38.06,0,yes,southeast,48885.13561,middle-aged adult,obese,3,dark purple
+489,53,male,31.16,1,no,northwest,10461.9794,mature adult,obese,2,purple
+490,19,female,32.9,0,no,southwest,1748.774,young adult,obese,0,pink
+491,61,female,25.08,0,no,southeast,24513.09126,mature adult,overweight,1,dark pink
+492,18,female,25.08,0,no,northeast,2196.4732,young adult,overweight,0,pink
+493,61,male,43.4,0,no,southwest,12574.049,mature adult,obese,2,purple
+494,21,male,25.7,4,yes,southwest,17942.106,young adult,overweight,1,dark pink
+495,20,male,27.93,0,no,northeast,1967.0227,young adult,overweight,0,pink
+496,31,female,23.6,2,no,southwest,4931.647,young adult,healthy weight,0,pink
+497,45,male,28.7,2,no,southwest,8027.968,middle-aged adult,overweight,2,purple
+498,44,female,23.98,2,no,southeast,8211.1002,middle-aged adult,healthy weight,2,purple
+499,62,female,39.2,0,no,southwest,13470.86,mature adult,obese,2,purple
+500,29,male,34.4,0,yes,southwest,36197.699,young adult,obese,3,dark purple
+501,43,male,26.03,0,no,northeast,6837.3687,middle-aged adult,overweight,0,pink
+502,51,male,23.21,1,yes,southeast,22218.1149,mature adult,healthy weight,1,dark pink
+503,19,male,30.25,0,yes,southeast,32548.3405,young adult,obese,3,dark purple
+504,38,female,28.93,1,no,southeast,5974.3847,middle-aged adult,overweight,0,pink
+505,37,male,30.875,3,no,northwest,6796.86325,middle-aged adult,obese,0,pink
+506,22,male,31.35,1,no,northwest,2643.2685,young adult,obese,0,pink
+507,21,male,23.75,2,no,northwest,3077.0955,young adult,healthy weight,0,pink
+508,24,female,25.27,0,no,northeast,3044.2133,young adult,overweight,0,pink
+509,57,female,28.7,0,no,southwest,11455.28,mature adult,overweight,2,purple
+510,56,male,32.11,1,no,northeast,11763.0009,mature adult,obese,2,purple
+511,27,male,33.66,0,no,southeast,2498.4144,young adult,obese,0,pink
+512,51,male,22.42,0,no,northeast,9361.3268,mature adult,healthy weight,2,purple
+513,19,male,30.4,0,no,southwest,1256.299,young adult,obese,0,pink
+514,39,male,28.3,1,yes,southwest,21082.16,middle-aged adult,overweight,1,dark pink
+515,58,male,35.7,0,no,southwest,11362.755,mature adult,obese,2,purple
+516,20,male,35.31,1,no,southeast,27724.28875,young adult,obese,1,dark pink
+517,45,male,30.495,2,no,northwest,8413.46305,middle-aged adult,obese,2,purple
+518,35,female,31.0,1,no,southwest,5240.765,middle-aged adult,obese,0,pink
+519,31,male,30.875,0,no,northeast,3857.75925,young adult,obese,0,pink
+520,50,female,27.36,0,no,northeast,25656.57526,mature adult,overweight,1,dark pink
+521,32,female,44.22,0,no,southeast,3994.1778,young adult,obese,0,pink
+522,51,female,33.915,0,no,northeast,9866.30485,mature adult,obese,2,purple
+523,38,female,37.73,0,no,southeast,5397.6167,middle-aged adult,obese,0,pink
+524,42,male,26.07,1,yes,southeast,38245.59327,middle-aged adult,overweight,3,dark purple
+525,18,female,33.88,0,no,southeast,11482.63485,young adult,obese,2,purple
+526,19,female,30.59,2,no,northwest,24059.68019,young adult,obese,1,dark pink
+527,51,female,25.8,1,no,southwest,9861.025,mature adult,overweight,2,purple
+528,46,male,39.425,1,no,northeast,8342.90875,middle-aged adult,obese,2,purple
+529,18,male,25.46,0,no,northeast,1708.0014,young adult,overweight,0,pink
+530,57,male,42.13,1,yes,southeast,48675.5177,mature adult,obese,3,dark purple
+531,62,female,31.73,0,no,northeast,14043.4767,mature adult,obese,2,purple
+532,59,male,29.7,2,no,southeast,12925.886,mature adult,overweight,2,purple
+533,37,male,36.19,0,no,southeast,19214.70553,middle-aged adult,obese,1,dark pink
+534,64,male,40.48,0,no,southeast,13831.1152,mature adult,obese,2,purple
+535,38,male,28.025,1,no,northeast,6067.12675,middle-aged adult,overweight,0,pink
+536,33,female,38.9,3,no,southwest,5972.378,young adult,obese,0,pink
+537,46,female,30.2,2,no,southwest,8825.086,middle-aged adult,obese,2,purple
+538,46,female,28.05,1,no,southeast,8233.0975,middle-aged adult,overweight,2,purple
+539,53,male,31.35,0,no,southeast,27346.04207,mature adult,obese,1,dark pink
+540,34,female,38.0,3,no,southwest,6196.448,young adult,obese,0,pink
+541,20,female,31.79,2,no,southeast,3056.3881,young adult,obese,0,pink
+542,63,female,36.3,0,no,southeast,13887.204,mature adult,obese,2,purple
+543,54,female,47.41,0,yes,southeast,63770.42801,mature adult,obese,3,dark purple
+544,54,male,30.21,0,no,northwest,10231.4999,mature adult,obese,2,purple
+545,49,male,25.84,2,yes,northwest,23807.2406,middle-aged adult,overweight,1,dark pink
+546,28,male,35.435,0,no,northeast,3268.84665,young adult,obese,0,pink
+547,54,female,46.7,2,no,southwest,11538.421,mature adult,obese,2,purple
+548,25,female,28.595,0,no,northeast,3213.62205,young adult,overweight,0,pink
+549,43,female,46.2,0,yes,southeast,45863.205,middle-aged adult,obese,3,dark purple
+550,63,male,30.8,0,no,southwest,13390.559,mature adult,obese,2,purple
+551,32,female,28.93,0,no,southeast,3972.9247,young adult,overweight,0,pink
+552,62,male,21.4,0,no,southwest,12957.118,mature adult,healthy weight,2,purple
+553,52,female,31.73,2,no,northwest,11187.6567,mature adult,obese,2,purple
+554,25,female,41.325,0,no,northeast,17878.90068,young adult,obese,1,dark pink
+555,28,male,23.8,2,no,southwest,3847.674,young adult,healthy weight,0,pink
+556,46,male,33.44,1,no,northeast,8334.5896,middle-aged adult,obese,2,purple
+557,34,male,34.21,0,no,southeast,3935.1799,young adult,obese,0,pink
+558,35,female,34.105,3,yes,northwest,39983.42595,middle-aged adult,obese,3,dark purple
+559,19,male,35.53,0,no,northwest,1646.4297,young adult,obese,0,pink
+560,46,female,19.95,2,no,northwest,9193.8385,middle-aged adult,healthy weight,2,purple
+561,54,female,32.68,0,no,northeast,10923.9332,mature adult,obese,2,purple
+562,27,male,30.5,0,no,southwest,2494.022,young adult,obese,0,pink
+563,50,male,44.77,1,no,southeast,9058.7303,mature adult,obese,2,purple
+564,18,female,32.12,2,no,southeast,2801.2588,young adult,obese,0,pink
+565,19,female,30.495,0,no,northwest,2128.43105,young adult,obese,0,pink
+566,38,female,40.565,1,no,northwest,6373.55735,middle-aged adult,obese,0,pink
+567,41,male,30.59,2,no,northwest,7256.7231,middle-aged adult,obese,0,pink
+568,49,female,31.9,5,no,southwest,11552.904,middle-aged adult,obese,2,purple
+569,48,male,40.565,2,yes,northwest,45702.02235,middle-aged adult,obese,3,dark purple
+570,31,female,29.1,0,no,southwest,3761.292,young adult,overweight,0,pink
+571,18,female,37.29,1,no,southeast,2219.4451,young adult,obese,0,pink
+572,30,female,43.12,2,no,southeast,4753.6368,young adult,obese,0,pink
+573,62,female,36.86,1,no,northeast,31620.00106,mature adult,obese,1,dark pink
+574,57,female,34.295,2,no,northeast,13224.05705,mature adult,obese,2,purple
+575,58,female,27.17,0,no,northwest,12222.8983,mature adult,overweight,2,purple
+576,22,male,26.84,0,no,southeast,1664.9996,young adult,overweight,0,pink
+577,31,female,38.095,1,yes,northeast,58571.07448,young adult,obese,3,dark purple
+578,52,male,30.2,1,no,southwest,9724.53,mature adult,obese,2,purple
+579,25,female,23.465,0,no,northeast,3206.49135,young adult,healthy weight,0,pink
+580,59,male,25.46,1,no,northeast,12913.9924,mature adult,overweight,2,purple
+581,39,male,45.43,2,no,southeast,6356.2707,middle-aged adult,obese,0,pink
+582,32,female,23.65,1,no,southeast,17626.23951,young adult,healthy weight,1,dark pink
+583,19,male,20.7,0,no,southwest,1242.816,young adult,healthy weight,0,pink
+584,33,female,28.27,1,no,southeast,4779.6023,young adult,overweight,0,pink
+585,21,male,20.235,3,no,northeast,3861.20965,young adult,healthy weight,0,pink
+586,34,female,30.21,1,yes,northwest,43943.8761,young adult,obese,3,dark purple
+587,61,female,35.91,0,no,northeast,13635.6379,mature adult,obese,2,purple
+588,38,female,30.69,1,no,southeast,5976.8311,middle-aged adult,obese,0,pink
+589,58,female,29.0,0,no,southwest,11842.442,mature adult,overweight,2,purple
+590,47,male,19.57,1,no,northwest,8428.0693,middle-aged adult,healthy weight,2,purple
+591,20,male,31.13,2,no,southeast,2566.4707,young adult,obese,0,pink
+592,21,female,21.85,1,yes,northeast,15359.1045,young adult,healthy weight,2,purple
+593,41,male,40.26,0,no,southeast,5709.1644,middle-aged adult,obese,0,pink
+594,46,female,33.725,1,no,northeast,8823.98575,middle-aged adult,obese,2,purple
+595,42,female,29.48,2,no,southeast,7640.3092,middle-aged adult,overweight,0,pink
+596,34,female,33.25,1,no,northeast,5594.8455,young adult,obese,0,pink
+597,43,male,32.6,2,no,southwest,7441.501,middle-aged adult,obese,0,pink
+598,52,female,37.525,2,no,northwest,33471.97189,mature adult,obese,3,dark purple
+599,18,female,39.16,0,no,southeast,1633.0444,young adult,obese,0,pink
+600,51,male,31.635,0,no,northwest,9174.13565,mature adult,obese,2,purple
+601,56,female,25.3,0,no,southwest,11070.535,mature adult,overweight,2,purple
+602,64,female,39.05,3,no,southeast,16085.1275,mature adult,obese,2,purple
+603,19,female,28.31,0,yes,northwest,17468.9839,young adult,overweight,1,dark pink
+604,51,female,34.1,0,no,southeast,9283.562,mature adult,obese,2,purple
+605,27,female,25.175,0,no,northeast,3558.62025,young adult,overweight,0,pink
+606,59,female,23.655,0,yes,northwest,25678.77845,mature adult,healthy weight,1,dark pink
+607,28,male,26.98,2,no,northeast,4435.0942,young adult,overweight,0,pink
+608,30,male,37.8,2,yes,southwest,39241.442,young adult,obese,3,dark purple
+609,47,female,29.37,1,no,southeast,8547.6913,middle-aged adult,overweight,2,purple
+610,38,female,34.8,2,no,southwest,6571.544,middle-aged adult,obese,0,pink
+611,18,female,33.155,0,no,northeast,2207.69745,young adult,obese,0,pink
+612,34,female,19.0,3,no,northeast,6753.038,young adult,healthy weight,0,pink
+613,20,female,33.0,0,no,southeast,1880.07,young adult,obese,0,pink
+614,47,female,36.63,1,yes,southeast,42969.8527,middle-aged adult,obese,3,dark purple
+615,56,female,28.595,0,no,northeast,11658.11505,mature adult,overweight,2,purple
+616,49,male,25.6,2,yes,southwest,23306.547,middle-aged adult,overweight,1,dark pink
+617,19,female,33.11,0,yes,southeast,34439.8559,young adult,obese,3,dark purple
+618,55,female,37.1,0,no,southwest,10713.644,mature adult,obese,2,purple
+619,30,male,31.4,1,no,southwest,3659.346,young adult,obese,0,pink
+620,37,male,34.1,4,yes,southwest,40182.246,middle-aged adult,obese,3,dark purple
+621,49,female,21.3,1,no,southwest,9182.17,middle-aged adult,healthy weight,2,purple
+622,18,male,33.535,0,yes,northeast,34617.84065,young adult,obese,3,dark purple
+623,59,male,28.785,0,no,northwest,12129.61415,mature adult,overweight,2,purple
+624,29,female,26.03,0,no,northwest,3736.4647,young adult,overweight,0,pink
+625,36,male,28.88,3,no,northeast,6748.5912,middle-aged adult,overweight,0,pink
+626,33,male,42.46,1,no,southeast,11326.71487,young adult,obese,2,purple
+627,58,male,38.0,0,no,southwest,11365.952,mature adult,obese,2,purple
+628,44,female,38.95,0,yes,northwest,42983.4585,middle-aged adult,obese,3,dark purple
+629,53,male,36.1,1,no,southwest,10085.846,mature adult,obese,2,purple
+630,24,male,29.3,0,no,southwest,1977.815,young adult,overweight,0,pink
+631,29,female,35.53,0,no,southeast,3366.6697,young adult,obese,0,pink
+632,40,male,22.705,2,no,northeast,7173.35995,middle-aged adult,healthy weight,0,pink
+633,51,male,39.7,1,no,southwest,9391.346,mature adult,obese,2,purple
+634,64,male,38.19,0,no,northeast,14410.9321,mature adult,obese,2,purple
+635,19,female,24.51,1,no,northwest,2709.1119,young adult,healthy weight,0,pink
+636,35,female,38.095,2,no,northeast,24915.04626,middle-aged adult,obese,1,dark pink
+637,39,male,26.41,0,yes,northeast,20149.3229,middle-aged adult,overweight,1,dark pink
+638,56,male,33.66,4,no,southeast,12949.1554,mature adult,obese,2,purple
+639,33,male,42.4,5,no,southwest,6666.243,young adult,obese,0,pink
+640,42,male,28.31,3,yes,northwest,32787.45859,middle-aged adult,overweight,3,dark purple
+641,61,male,33.915,0,no,northeast,13143.86485,mature adult,obese,2,purple
+642,23,female,34.96,3,no,northwest,4466.6214,young adult,obese,0,pink
+643,43,male,35.31,2,no,southeast,18806.14547,middle-aged adult,obese,1,dark pink
+644,48,male,30.78,3,no,northeast,10141.1362,middle-aged adult,obese,2,purple
+645,39,male,26.22,1,no,northwest,6123.5688,middle-aged adult,overweight,0,pink
+646,40,female,23.37,3,no,northeast,8252.2843,middle-aged adult,healthy weight,2,purple
+647,18,male,28.5,0,no,northeast,1712.227,young adult,overweight,0,pink
+648,58,female,32.965,0,no,northeast,12430.95335,mature adult,obese,2,purple
+649,49,female,42.68,2,no,southeast,9800.8882,middle-aged adult,obese,2,purple
+650,53,female,39.6,1,no,southeast,10579.711,mature adult,obese,2,purple
+651,48,female,31.13,0,no,southeast,8280.6227,middle-aged adult,obese,2,purple
+652,45,female,36.3,2,no,southeast,8527.532,middle-aged adult,obese,2,purple
+653,59,female,35.2,0,no,southeast,12244.531,mature adult,obese,2,purple
+654,52,female,25.3,2,yes,southeast,24667.419,mature adult,overweight,1,dark pink
+655,26,female,42.4,1,no,southwest,3410.324,young adult,obese,0,pink
+656,27,male,33.155,2,no,northwest,4058.71245,young adult,obese,0,pink
+657,48,female,35.91,1,no,northeast,26392.26029,middle-aged adult,obese,1,dark pink
+658,57,female,28.785,4,no,northeast,14394.39815,mature adult,overweight,2,purple
+659,37,male,46.53,3,no,southeast,6435.6237,middle-aged adult,obese,0,pink
+660,57,female,23.98,1,no,southeast,22192.43711,mature adult,healthy weight,1,dark pink
+661,32,female,31.54,1,no,northeast,5148.5526,young adult,obese,0,pink
+662,18,male,33.66,0,no,southeast,1136.3994,young adult,obese,0,pink
+663,64,female,22.99,0,yes,southeast,27037.9141,mature adult,healthy weight,1,dark pink
+664,43,male,38.06,2,yes,southeast,42560.4304,middle-aged adult,obese,3,dark purple
+665,49,male,28.7,1,no,southwest,8703.456,middle-aged adult,overweight,2,purple
+666,40,female,32.775,2,yes,northwest,40003.33225,middle-aged adult,obese,3,dark purple
+667,62,male,32.015,0,yes,northeast,45710.20785,mature adult,obese,3,dark purple
+668,40,female,29.81,1,no,southeast,6500.2359,middle-aged adult,overweight,0,pink
+669,30,male,31.57,3,no,southeast,4837.5823,young adult,obese,0,pink
+670,29,female,31.16,0,no,northeast,3943.5954,young adult,obese,0,pink
+671,36,male,29.7,0,no,southeast,4399.731,middle-aged adult,overweight,0,pink
+672,41,female,31.02,0,no,southeast,6185.3208,middle-aged adult,obese,0,pink
+673,44,female,43.89,2,yes,southeast,46200.9851,middle-aged adult,obese,3,dark purple
+674,45,male,21.375,0,no,northwest,7222.78625,middle-aged adult,healthy weight,0,pink
+675,55,female,40.81,3,no,southeast,12485.8009,mature adult,obese,2,purple
+676,60,male,31.35,3,yes,northwest,46130.5265,mature adult,obese,3,dark purple
+677,56,male,36.1,3,no,southwest,12363.547,mature adult,obese,2,purple
+678,49,female,23.18,2,no,northwest,10156.7832,middle-aged adult,healthy weight,2,purple
+679,21,female,17.4,1,no,southwest,2585.269,young adult,underweight,0,pink
+680,19,male,20.3,0,no,southwest,1242.26,young adult,healthy weight,0,pink
+681,39,male,35.3,2,yes,southwest,40103.89,middle-aged adult,obese,3,dark purple
+682,53,male,24.32,0,no,northwest,9863.4718,mature adult,healthy weight,2,purple
+683,33,female,18.5,1,no,southwest,4766.022,young adult,healthy weight,0,pink
+684,53,male,26.41,2,no,northeast,11244.3769,mature adult,overweight,2,purple
+685,42,male,26.125,2,no,northeast,7729.64575,middle-aged adult,overweight,0,pink
+686,40,male,41.69,0,no,southeast,5438.7491,middle-aged adult,obese,0,pink
+687,47,female,24.1,1,no,southwest,26236.57997,middle-aged adult,healthy weight,1,dark pink
+688,27,male,31.13,1,yes,southeast,34806.4677,young adult,obese,3,dark purple
+689,21,male,27.36,0,no,northeast,2104.1134,young adult,overweight,0,pink
+690,47,male,36.2,1,no,southwest,8068.185,middle-aged adult,obese,2,purple
+691,20,male,32.395,1,no,northwest,2362.22905,young adult,obese,0,pink
+692,24,male,23.655,0,no,northwest,2352.96845,young adult,healthy weight,0,pink
+693,27,female,34.8,1,no,southwest,3577.999,young adult,obese,0,pink
+694,26,female,40.185,0,no,northwest,3201.24515,young adult,obese,0,pink
+695,53,female,32.3,2,no,northeast,29186.48236,mature adult,obese,1,dark pink
+696,41,male,35.75,1,yes,southeast,40273.6455,middle-aged adult,obese,3,dark purple
+697,56,male,33.725,0,no,northwest,10976.24575,mature adult,obese,2,purple
+698,23,female,39.27,2,no,southeast,3500.6123,young adult,obese,0,pink
+699,21,female,34.87,0,no,southeast,2020.5523,young adult,obese,0,pink
+700,50,female,44.745,0,no,northeast,9541.69555,mature adult,obese,2,purple
+701,53,male,41.47,0,no,southeast,9504.3103,mature adult,obese,2,purple
+702,34,female,26.41,1,no,northwest,5385.3379,young adult,overweight,0,pink
+703,47,female,29.545,1,no,northwest,8930.93455,middle-aged adult,overweight,2,purple
+704,33,female,32.9,2,no,southwest,5375.038,young adult,obese,0,pink
+705,51,female,38.06,0,yes,southeast,44400.4064,mature adult,obese,3,dark purple
+706,49,male,28.69,3,no,northwest,10264.4421,middle-aged adult,overweight,2,purple
+707,31,female,30.495,3,no,northeast,6113.23105,young adult,obese,0,pink
+708,36,female,27.74,0,no,northeast,5469.0066,middle-aged adult,overweight,0,pink
+709,18,male,35.2,1,no,southeast,1727.54,young adult,obese,0,pink
+710,50,female,23.54,2,no,southeast,10107.2206,mature adult,healthy weight,2,purple
+711,43,female,30.685,2,no,northwest,8310.83915,middle-aged adult,obese,2,purple
+712,20,male,40.47,0,no,northeast,1984.4533,young adult,obese,0,pink
+713,24,female,22.6,0,no,southwest,2457.502,young adult,healthy weight,0,pink
+714,60,male,28.9,0,no,southwest,12146.971,mature adult,overweight,2,purple
+715,49,female,22.61,1,no,northwest,9566.9909,middle-aged adult,healthy weight,2,purple
+716,60,male,24.32,1,no,northwest,13112.6048,mature adult,healthy weight,2,purple
+717,51,female,36.67,2,no,northwest,10848.1343,mature adult,obese,2,purple
+718,58,female,33.44,0,no,northwest,12231.6136,mature adult,obese,2,purple
+719,51,female,40.66,0,no,northeast,9875.6804,mature adult,obese,2,purple
+720,53,male,36.6,3,no,southwest,11264.541,mature adult,obese,2,purple
+721,62,male,37.4,0,no,southwest,12979.358,mature adult,obese,2,purple
+722,19,male,35.4,0,no,southwest,1263.249,young adult,obese,0,pink
+723,50,female,27.075,1,no,northeast,10106.13425,mature adult,overweight,2,purple
+724,30,female,39.05,3,yes,southeast,40932.4295,young adult,obese,3,dark purple
+725,41,male,28.405,1,no,northwest,6664.68595,middle-aged adult,overweight,0,pink
+726,29,female,21.755,1,yes,northeast,16657.71745,young adult,healthy weight,2,purple
+727,18,female,40.28,0,no,northeast,2217.6012,young adult,obese,0,pink
+728,41,female,36.08,1,no,southeast,6781.3542,middle-aged adult,obese,0,pink
+729,35,male,24.42,3,yes,southeast,19361.9988,middle-aged adult,healthy weight,1,dark pink
+730,53,male,21.4,1,no,southwest,10065.413,mature adult,healthy weight,2,purple
+731,24,female,30.1,3,no,southwest,4234.927,young adult,obese,0,pink
+732,48,female,27.265,1,no,northeast,9447.25035,middle-aged adult,overweight,2,purple
+733,59,female,32.1,3,no,southwest,14007.222,mature adult,obese,2,purple
+734,49,female,34.77,1,no,northwest,9583.8933,middle-aged adult,obese,2,purple
+735,37,female,38.39,0,yes,southeast,40419.0191,middle-aged adult,obese,3,dark purple
+736,26,male,23.7,2,no,southwest,3484.331,young adult,healthy weight,0,pink
+737,23,male,31.73,3,yes,northeast,36189.1017,young adult,obese,3,dark purple
+738,29,male,35.5,2,yes,southwest,44585.45587,young adult,obese,3,dark purple
+739,45,male,24.035,2,no,northeast,8604.48365,middle-aged adult,healthy weight,2,purple
+740,27,male,29.15,0,yes,southeast,18246.4955,young adult,overweight,1,dark pink
+741,53,male,34.105,0,yes,northeast,43254.41795,mature adult,obese,3,dark purple
+742,31,female,26.62,0,no,southeast,3757.8448,young adult,overweight,0,pink
+743,50,male,26.41,0,no,northwest,8827.2099,mature adult,overweight,2,purple
+744,50,female,30.115,1,no,northwest,9910.35985,mature adult,obese,2,purple
+745,34,male,27.0,2,no,southwest,11737.84884,young adult,overweight,2,purple
+746,19,male,21.755,0,no,northwest,1627.28245,young adult,healthy weight,0,pink
+747,47,female,36.0,1,no,southwest,8556.907,middle-aged adult,obese,2,purple
+748,28,male,30.875,0,no,northwest,3062.50825,young adult,obese,0,pink
+749,37,female,26.4,0,yes,southeast,19539.243,middle-aged adult,overweight,1,dark pink
+750,21,male,28.975,0,no,northwest,1906.35825,young adult,overweight,0,pink
+751,64,male,37.905,0,no,northwest,14210.53595,mature adult,obese,2,purple
+752,58,female,22.77,0,no,southeast,11833.7823,mature adult,healthy weight,2,purple
+753,24,male,33.63,4,no,northeast,17128.42608,young adult,obese,1,dark pink
+754,31,male,27.645,2,no,northeast,5031.26955,young adult,overweight,0,pink
+755,39,female,22.8,3,no,northeast,7985.815,middle-aged adult,healthy weight,2,purple
+756,47,female,27.83,0,yes,southeast,23065.4207,middle-aged adult,overweight,1,dark pink
+757,30,male,37.43,3,no,northeast,5428.7277,young adult,obese,0,pink
+758,18,male,38.17,0,yes,southeast,36307.7983,young adult,obese,3,dark purple
+759,22,female,34.58,2,no,northeast,3925.7582,young adult,obese,0,pink
+760,23,male,35.2,1,no,southwest,2416.955,young adult,obese,0,pink
+761,33,male,27.1,1,yes,southwest,19040.876,young adult,overweight,1,dark pink
+762,27,male,26.03,0,no,northeast,3070.8087,young adult,overweight,0,pink
+763,45,female,25.175,2,no,northeast,9095.06825,middle-aged adult,overweight,2,purple
+764,57,female,31.825,0,no,northwest,11842.62375,mature adult,obese,2,purple
+765,47,male,32.3,1,no,southwest,8062.764,middle-aged adult,obese,2,purple
+766,42,female,29.0,1,no,southwest,7050.642,middle-aged adult,overweight,0,pink
+767,64,female,39.7,0,no,southwest,14319.031,mature adult,obese,2,purple
+768,38,female,19.475,2,no,northwest,6933.24225,middle-aged adult,healthy weight,0,pink
+769,61,male,36.1,3,no,southwest,27941.28758,mature adult,obese,1,dark pink
+770,53,female,26.7,2,no,southwest,11150.78,mature adult,overweight,2,purple
+771,44,female,36.48,0,no,northeast,12797.20962,middle-aged adult,obese,2,purple
+772,19,female,28.88,0,yes,northwest,17748.5062,young adult,overweight,1,dark pink
+773,41,male,34.2,2,no,northwest,7261.741,middle-aged adult,obese,0,pink
+774,51,male,33.33,3,no,southeast,10560.4917,mature adult,obese,2,purple
+775,40,male,32.3,2,no,northwest,6986.697,middle-aged adult,obese,0,pink
+776,45,male,39.805,0,no,northeast,7448.40395,middle-aged adult,obese,0,pink
+777,35,male,34.32,3,no,southeast,5934.3798,middle-aged adult,obese,0,pink
+778,53,male,28.88,0,no,northwest,9869.8102,mature adult,overweight,2,purple
+779,30,male,24.4,3,yes,southwest,18259.216,young adult,healthy weight,1,dark pink
+780,18,male,41.14,0,no,southeast,1146.7966,young adult,obese,0,pink
+781,51,male,35.97,1,no,southeast,9386.1613,mature adult,obese,2,purple
+782,50,female,27.6,1,yes,southwest,24520.264,mature adult,overweight,1,dark pink
+783,31,female,29.26,1,no,southeast,4350.5144,young adult,overweight,0,pink
+784,35,female,27.7,3,no,southwest,6414.178,middle-aged adult,overweight,0,pink
+785,60,male,36.955,0,no,northeast,12741.16745,mature adult,obese,2,purple
+786,21,male,36.86,0,no,northwest,1917.3184,young adult,obese,0,pink
+787,29,male,22.515,3,no,northeast,5209.57885,young adult,healthy weight,0,pink
+788,62,female,29.92,0,no,southeast,13457.9608,mature adult,overweight,2,purple
+789,39,female,41.8,0,no,southeast,5662.225,middle-aged adult,obese,0,pink
+790,19,male,27.6,0,no,southwest,1252.407,young adult,overweight,0,pink
+791,22,female,23.18,0,no,northeast,2731.9122,young adult,healthy weight,0,pink
+792,53,male,20.9,0,yes,southeast,21195.818,mature adult,healthy weight,1,dark pink
+793,39,female,31.92,2,no,northwest,7209.4918,middle-aged adult,obese,0,pink
+794,27,male,28.5,0,yes,northwest,18310.742,young adult,overweight,1,dark pink
+795,30,male,44.22,2,no,southeast,4266.1658,young adult,obese,0,pink
+796,30,female,22.895,1,no,northeast,4719.52405,young adult,healthy weight,0,pink
+797,58,female,33.1,0,no,southwest,11848.141,mature adult,obese,2,purple
+798,33,male,24.795,0,yes,northeast,17904.52705,young adult,healthy weight,1,dark pink
+799,42,female,26.18,1,no,southeast,7046.7222,middle-aged adult,overweight,0,pink
+800,64,female,35.97,0,no,southeast,14313.8463,mature adult,obese,2,purple
+801,21,male,22.3,1,no,southwest,2103.08,young adult,healthy weight,0,pink
+802,18,female,42.24,0,yes,southeast,38792.6856,young adult,obese,3,dark purple
+803,23,male,26.51,0,no,southeast,1815.8759,young adult,overweight,0,pink
+804,45,female,35.815,0,no,northwest,7731.85785,middle-aged adult,obese,0,pink
+805,40,female,41.42,1,no,northwest,28476.73499,middle-aged adult,obese,1,dark pink
+806,19,female,36.575,0,no,northwest,2136.88225,young adult,obese,0,pink
+807,18,male,30.14,0,no,southeast,1131.5066,young adult,obese,0,pink
+808,25,male,25.84,1,no,northeast,3309.7926,young adult,overweight,0,pink
+809,46,female,30.8,3,no,southwest,9414.92,middle-aged adult,obese,2,purple
+810,33,female,42.94,3,no,northwest,6360.9936,young adult,obese,0,pink
+811,54,male,21.01,2,no,southeast,11013.7119,mature adult,healthy weight,2,purple
+812,28,male,22.515,2,no,northeast,4428.88785,young adult,healthy weight,0,pink
+813,36,male,34.43,2,no,southeast,5584.3057,middle-aged adult,obese,0,pink
+814,20,female,31.46,0,no,southeast,1877.9294,young adult,obese,0,pink
+815,24,female,24.225,0,no,northwest,2842.76075,young adult,healthy weight,0,pink
+816,23,male,37.1,3,no,southwest,3597.596,young adult,obese,0,pink
+817,47,female,26.125,1,yes,northeast,23401.30575,middle-aged adult,overweight,1,dark pink
+818,33,female,35.53,0,yes,northwest,55135.40209,young adult,obese,3,dark purple
+819,45,male,33.7,1,no,southwest,7445.918,middle-aged adult,obese,0,pink
+820,26,male,17.67,0,no,northwest,2680.9493,young adult,underweight,0,pink
+821,18,female,31.13,0,no,southeast,1621.8827,young adult,obese,0,pink
+822,44,female,29.81,2,no,southeast,8219.2039,middle-aged adult,overweight,2,purple
+823,60,male,24.32,0,no,northwest,12523.6048,mature adult,healthy weight,2,purple
+824,64,female,31.825,2,no,northeast,16069.08475,mature adult,obese,2,purple
+825,56,male,31.79,2,yes,southeast,43813.8661,mature adult,obese,3,dark purple
+826,36,male,28.025,1,yes,northeast,20773.62775,middle-aged adult,overweight,1,dark pink
+827,41,male,30.78,3,yes,northeast,39597.4072,middle-aged adult,obese,3,dark purple
+828,39,male,21.85,1,no,northwest,6117.4945,middle-aged adult,healthy weight,0,pink
+829,63,male,33.1,0,no,southwest,13393.756,mature adult,obese,2,purple
+830,36,female,25.84,0,no,northwest,5266.3656,middle-aged adult,overweight,0,pink
+831,28,female,23.845,2,no,northwest,4719.73655,young adult,healthy weight,0,pink
+832,58,male,34.39,0,no,northwest,11743.9341,mature adult,obese,2,purple
+833,36,male,33.82,1,no,northwest,5377.4578,middle-aged adult,obese,0,pink
+834,42,male,35.97,2,no,southeast,7160.3303,middle-aged adult,obese,0,pink
+835,36,male,31.5,0,no,southwest,4402.233,middle-aged adult,obese,0,pink
+836,56,female,28.31,0,no,northeast,11657.7189,mature adult,overweight,2,purple
+837,35,female,23.465,2,no,northeast,6402.29135,middle-aged adult,healthy weight,0,pink
+838,59,female,31.35,0,no,northwest,12622.1795,mature adult,obese,2,purple
+839,21,male,31.1,0,no,southwest,1526.312,young adult,obese,0,pink
+840,59,male,24.7,0,no,northeast,12323.936,mature adult,healthy weight,2,purple
+841,23,female,32.78,2,yes,southeast,36021.0112,young adult,obese,3,dark purple
+842,57,female,29.81,0,yes,southeast,27533.9129,mature adult,overweight,1,dark pink
+843,53,male,30.495,0,no,northeast,10072.05505,mature adult,obese,2,purple
+844,60,female,32.45,0,yes,southeast,45008.9555,mature adult,obese,3,dark purple
+845,51,female,34.2,1,no,southwest,9872.701,mature adult,obese,2,purple
+846,23,male,50.38,1,no,southeast,2438.0552,young adult,obese,0,pink
+847,27,female,24.1,0,no,southwest,2974.126,young adult,healthy weight,0,pink
+848,55,male,32.775,0,no,northwest,10601.63225,mature adult,obese,2,purple
+849,37,female,30.78,0,yes,northeast,37270.1512,middle-aged adult,obese,3,dark purple
+850,61,male,32.3,2,no,northwest,14119.62,mature adult,obese,2,purple
+851,46,female,35.53,0,yes,northeast,42111.6647,middle-aged adult,obese,3,dark purple
+852,53,female,23.75,2,no,northeast,11729.6795,mature adult,healthy weight,2,purple
+853,49,female,23.845,3,yes,northeast,24106.91255,middle-aged adult,healthy weight,1,dark pink
+854,20,female,29.6,0,no,southwest,1875.344,young adult,overweight,0,pink
+855,48,female,33.11,0,yes,southeast,40974.1649,middle-aged adult,obese,3,dark purple
+856,25,male,24.13,0,yes,northwest,15817.9857,young adult,healthy weight,2,purple
+857,25,female,32.23,1,no,southeast,18218.16139,young adult,obese,1,dark pink
+858,57,male,28.1,0,no,southwest,10965.446,mature adult,overweight,2,purple
+859,37,female,47.6,2,yes,southwest,46113.511,middle-aged adult,obese,3,dark purple
+860,38,female,28.0,3,no,southwest,7151.092,middle-aged adult,overweight,0,pink
+861,55,female,33.535,2,no,northwest,12269.68865,mature adult,obese,2,purple
+862,36,female,19.855,0,no,northeast,5458.04645,middle-aged adult,healthy weight,0,pink
+863,51,male,25.4,0,no,southwest,8782.469,mature adult,overweight,2,purple
+864,40,male,29.9,2,no,southwest,6600.361,middle-aged adult,overweight,0,pink
+865,18,male,37.29,0,no,southeast,1141.4451,young adult,obese,0,pink
+866,57,male,43.7,1,no,southwest,11576.13,mature adult,obese,2,purple
+867,61,male,23.655,0,no,northeast,13129.60345,mature adult,healthy weight,2,purple
+868,25,female,24.3,3,no,southwest,4391.652,young adult,healthy weight,0,pink
+869,50,male,36.2,0,no,southwest,8457.818,mature adult,obese,2,purple
+870,26,female,29.48,1,no,southeast,3392.3652,young adult,overweight,0,pink
+871,42,male,24.86,0,no,southeast,5966.8874,middle-aged adult,healthy weight,0,pink
+872,43,male,30.1,1,no,southwest,6849.026,middle-aged adult,obese,0,pink
+873,44,male,21.85,3,no,northeast,8891.1395,middle-aged adult,healthy weight,2,purple
+874,23,female,28.12,0,no,northwest,2690.1138,young adult,overweight,0,pink
+875,49,female,27.1,1,no,southwest,26140.3603,middle-aged adult,overweight,1,dark pink
+876,33,male,33.44,5,no,southeast,6653.7886,young adult,obese,0,pink
+877,41,male,28.8,1,no,southwest,6282.235,middle-aged adult,overweight,0,pink
+878,37,female,29.5,2,no,southwest,6311.952,middle-aged adult,overweight,0,pink
+879,22,male,34.8,3,no,southwest,3443.064,young adult,obese,0,pink
+880,23,male,27.36,1,no,northwest,2789.0574,young adult,overweight,0,pink
+881,21,female,22.135,0,no,northeast,2585.85065,young adult,healthy weight,0,pink
+882,51,female,37.05,3,yes,northeast,46255.1125,mature adult,obese,3,dark purple
+883,25,male,26.695,4,no,northwest,4877.98105,young adult,overweight,0,pink
+884,32,male,28.93,1,yes,southeast,19719.6947,young adult,overweight,1,dark pink
+885,57,male,28.975,0,yes,northeast,27218.43725,mature adult,overweight,1,dark pink
+886,36,female,30.02,0,no,northwest,5272.1758,middle-aged adult,obese,0,pink
+887,22,male,39.5,0,no,southwest,1682.597,young adult,obese,0,pink
+888,57,male,33.63,1,no,northwest,11945.1327,mature adult,obese,2,purple
+889,64,female,26.885,0,yes,northwest,29330.98315,mature adult,overweight,1,dark pink
+890,36,female,29.04,4,no,southeast,7243.8136,middle-aged adult,overweight,0,pink
+891,54,male,24.035,0,no,northeast,10422.91665,mature adult,healthy weight,2,purple
+892,47,male,38.94,2,yes,southeast,44202.6536,middle-aged adult,obese,3,dark purple
+893,62,male,32.11,0,no,northeast,13555.0049,mature adult,obese,2,purple
+894,61,female,44.0,0,no,southwest,13063.883,mature adult,obese,2,purple
+895,43,female,20.045,2,yes,northeast,19798.05455,middle-aged adult,healthy weight,1,dark pink
+896,19,male,25.555,1,no,northwest,2221.56445,young adult,overweight,0,pink
+897,18,female,40.26,0,no,southeast,1634.5734,young adult,obese,0,pink
+898,19,female,22.515,0,no,northwest,2117.33885,young adult,healthy weight,0,pink
+899,49,male,22.515,0,no,northeast,8688.85885,middle-aged adult,healthy weight,2,purple
+900,60,male,40.92,0,yes,southeast,48673.5588,mature adult,obese,3,dark purple
+901,26,male,27.265,3,no,northeast,4661.28635,young adult,overweight,0,pink
+902,49,male,36.85,0,no,southeast,8125.7845,middle-aged adult,obese,2,purple
+903,60,female,35.1,0,no,southwest,12644.589,mature adult,obese,2,purple
+904,26,female,29.355,2,no,northeast,4564.19145,young adult,overweight,0,pink
+905,27,male,32.585,3,no,northeast,4846.92015,young adult,obese,0,pink
+906,44,female,32.34,1,no,southeast,7633.7206,middle-aged adult,obese,0,pink
+907,63,male,39.8,3,no,southwest,15170.069,mature adult,obese,2,purple
+908,32,female,24.6,0,yes,southwest,17496.306,young adult,healthy weight,1,dark pink
+909,22,male,28.31,1,no,northwest,2639.0429,young adult,overweight,0,pink
+910,18,male,31.73,0,yes,northeast,33732.6867,young adult,obese,3,dark purple
+911,59,female,26.695,3,no,northwest,14382.70905,mature adult,overweight,2,purple
+912,44,female,27.5,1,no,southwest,7626.993,middle-aged adult,overweight,0,pink
+913,33,male,24.605,2,no,northwest,5257.50795,young adult,healthy weight,0,pink
+914,24,female,33.99,0,no,southeast,2473.3341,young adult,obese,0,pink
+915,43,female,26.885,0,yes,northwest,21774.32215,middle-aged adult,overweight,1,dark pink
+916,45,male,22.895,0,yes,northeast,35069.37452,middle-aged adult,healthy weight,3,dark purple
+917,61,female,28.2,0,no,southwest,13041.921,mature adult,overweight,2,purple
+918,35,female,34.21,1,no,southeast,5245.2269,middle-aged adult,obese,0,pink
+919,62,female,25.0,0,no,southwest,13451.122,mature adult,overweight,2,purple
+920,62,female,33.2,0,no,southwest,13462.52,mature adult,obese,2,purple
+921,38,male,31.0,1,no,southwest,5488.262,middle-aged adult,obese,0,pink
+922,34,male,35.815,0,no,northwest,4320.41085,young adult,obese,0,pink
+923,43,male,23.2,0,no,southwest,6250.435,middle-aged adult,healthy weight,0,pink
+924,50,male,32.11,2,no,northeast,25333.33284,mature adult,obese,1,dark pink
+925,19,female,23.4,2,no,southwest,2913.569,young adult,healthy weight,0,pink
+926,57,female,20.1,1,no,southwest,12032.326,mature adult,healthy weight,2,purple
+927,62,female,39.16,0,no,southeast,13470.8044,mature adult,obese,2,purple
+928,41,male,34.21,1,no,southeast,6289.7549,middle-aged adult,obese,0,pink
+929,26,male,46.53,1,no,southeast,2927.0647,young adult,obese,0,pink
+930,39,female,32.5,1,no,southwest,6238.298,middle-aged adult,obese,0,pink
+931,46,male,25.8,5,no,southwest,10096.97,middle-aged adult,overweight,2,purple
+932,45,female,35.3,0,no,southwest,7348.142,middle-aged adult,obese,0,pink
+933,32,male,37.18,2,no,southeast,4673.3922,young adult,obese,0,pink
+934,59,female,27.5,0,no,southwest,12233.828,mature adult,overweight,2,purple
+935,44,male,29.735,2,no,northeast,32108.66282,middle-aged adult,overweight,3,dark purple
+936,39,female,24.225,5,no,northwest,8965.79575,middle-aged adult,healthy weight,2,purple
+937,18,male,26.18,2,no,southeast,2304.0022,young adult,overweight,0,pink
+938,53,male,29.48,0,no,southeast,9487.6442,mature adult,overweight,2,purple
+939,18,male,23.21,0,no,southeast,1121.8739,young adult,healthy weight,0,pink
+940,50,female,46.09,1,no,southeast,9549.5651,mature adult,obese,2,purple
+941,18,female,40.185,0,no,northeast,2217.46915,young adult,obese,0,pink
+942,19,male,22.61,0,no,northwest,1628.4709,young adult,healthy weight,0,pink
+943,62,male,39.93,0,no,southeast,12982.8747,mature adult,obese,2,purple
+944,56,female,35.8,1,no,southwest,11674.13,mature adult,obese,2,purple
+945,42,male,35.8,2,no,southwest,7160.094,middle-aged adult,obese,0,pink
+946,37,male,34.2,1,yes,northeast,39047.285,middle-aged adult,obese,3,dark purple
+947,42,male,31.255,0,no,northwest,6358.77645,middle-aged adult,obese,0,pink
+948,25,male,29.7,3,yes,southwest,19933.458,young adult,overweight,1,dark pink
+949,57,male,18.335,0,no,northeast,11534.87265,mature adult,underweight,2,purple
+950,51,male,42.9,2,yes,southeast,47462.894,mature adult,obese,3,dark purple
+951,30,female,28.405,1,no,northwest,4527.18295,young adult,overweight,0,pink
+952,44,male,30.2,2,yes,southwest,38998.546,middle-aged adult,obese,3,dark purple
+953,34,male,27.835,1,yes,northwest,20009.63365,young adult,overweight,1,dark pink
+954,31,male,39.49,1,no,southeast,3875.7341,young adult,obese,0,pink
+955,54,male,30.8,1,yes,southeast,41999.52,mature adult,obese,3,dark purple
+956,24,male,26.79,1,no,northwest,12609.88702,young adult,overweight,2,purple
+957,43,male,34.96,1,yes,northeast,41034.2214,middle-aged adult,obese,3,dark purple
+958,48,male,36.67,1,no,northwest,28468.91901,middle-aged adult,obese,1,dark pink
+959,19,female,39.615,1,no,northwest,2730.10785,young adult,obese,0,pink
+960,29,female,25.9,0,no,southwest,3353.284,young adult,overweight,0,pink
+961,63,female,35.2,1,no,southeast,14474.675,mature adult,obese,2,purple
+962,46,male,24.795,3,no,northeast,9500.57305,middle-aged adult,healthy weight,2,purple
+963,52,male,36.765,2,no,northwest,26467.09737,mature adult,obese,1,dark pink
+964,35,male,27.1,1,no,southwest,4746.344,middle-aged adult,overweight,0,pink
+965,51,male,24.795,2,yes,northwest,23967.38305,mature adult,healthy weight,1,dark pink
+966,44,male,25.365,1,no,northwest,7518.02535,middle-aged adult,overweight,0,pink
+967,21,male,25.745,2,no,northeast,3279.86855,young adult,overweight,0,pink
+968,39,female,34.32,5,no,southeast,8596.8278,middle-aged adult,obese,2,purple
+969,50,female,28.16,3,no,southeast,10702.6424,mature adult,overweight,2,purple
+970,34,female,23.56,0,no,northeast,4992.3764,young adult,healthy weight,0,pink
+971,22,female,20.235,0,no,northwest,2527.81865,young adult,healthy weight,0,pink
+972,19,female,40.5,0,no,southwest,1759.338,young adult,obese,0,pink
+973,26,male,35.42,0,no,southeast,2322.6218,young adult,obese,0,pink
+974,29,male,22.895,0,yes,northeast,16138.76205,young adult,healthy weight,2,purple
+975,48,male,40.15,0,no,southeast,7804.1605,middle-aged adult,obese,2,purple
+976,26,male,29.15,1,no,southeast,2902.9065,young adult,overweight,0,pink
+977,45,female,39.995,3,no,northeast,9704.66805,middle-aged adult,obese,2,purple
+978,36,female,29.92,0,no,southeast,4889.0368,middle-aged adult,overweight,0,pink
+979,54,male,25.46,1,no,northeast,25517.11363,mature adult,overweight,1,dark pink
+980,34,male,21.375,0,no,northeast,4500.33925,young adult,healthy weight,0,pink
+981,31,male,25.9,3,yes,southwest,19199.944,young adult,overweight,1,dark pink
+982,27,female,30.59,1,no,northeast,16796.41194,young adult,obese,2,purple
+983,20,male,30.115,5,no,northeast,4915.05985,young adult,obese,0,pink
+984,44,female,25.8,1,no,southwest,7624.63,middle-aged adult,overweight,0,pink
+985,43,male,30.115,3,no,northwest,8410.04685,middle-aged adult,obese,2,purple
+986,45,female,27.645,1,no,northwest,28340.18885,middle-aged adult,overweight,1,dark pink
+987,34,male,34.675,0,no,northeast,4518.82625,young adult,obese,0,pink
+988,24,female,20.52,0,yes,northeast,14571.8908,young adult,healthy weight,2,purple
+989,26,female,19.8,1,no,southwest,3378.91,young adult,healthy weight,0,pink
+990,38,female,27.835,2,no,northeast,7144.86265,middle-aged adult,overweight,0,pink
+991,50,female,31.6,2,no,southwest,10118.424,mature adult,obese,2,purple
+992,38,male,28.27,1,no,southeast,5484.4673,middle-aged adult,overweight,0,pink
+993,27,female,20.045,3,yes,northwest,16420.49455,young adult,healthy weight,2,purple
+994,39,female,23.275,3,no,northeast,7986.47525,middle-aged adult,healthy weight,2,purple
+995,39,female,34.1,3,no,southwest,7418.522,middle-aged adult,obese,0,pink
+996,63,female,36.85,0,no,southeast,13887.9685,mature adult,obese,2,purple
+997,33,female,36.29,3,no,northeast,6551.7501,young adult,obese,0,pink
+998,36,female,26.885,0,no,northwest,5267.81815,middle-aged adult,overweight,0,pink
+999,30,male,22.99,2,yes,northwest,17361.7661,young adult,healthy weight,1,dark pink
+1000,24,male,32.7,0,yes,southwest,34472.841,young adult,obese,3,dark purple
+1001,24,male,25.8,0,no,southwest,1972.95,young adult,overweight,0,pink
+1002,48,male,29.6,0,no,southwest,21232.18226,middle-aged adult,overweight,1,dark pink
+1003,47,male,19.19,1,no,northeast,8627.5411,middle-aged adult,healthy weight,2,purple
+1004,29,male,31.73,2,no,northwest,4433.3877,young adult,obese,0,pink
+1005,28,male,29.26,2,no,northeast,4438.2634,young adult,overweight,0,pink
+1006,47,male,28.215,3,yes,northwest,24915.22085,middle-aged adult,overweight,1,dark pink
+1007,25,male,24.985,2,no,northeast,23241.47453,young adult,healthy weight,1,dark pink
+1008,51,male,27.74,1,no,northeast,9957.7216,mature adult,overweight,2,purple
+1009,48,female,22.8,0,no,southwest,8269.044,middle-aged adult,healthy weight,2,purple
+1010,43,male,20.13,2,yes,southeast,18767.7377,middle-aged adult,healthy weight,1,dark pink
+1011,61,female,33.33,4,no,southeast,36580.28216,mature adult,obese,3,dark purple
+1012,48,male,32.3,1,no,northwest,8765.249,middle-aged adult,obese,2,purple
+1013,38,female,27.6,0,no,southwest,5383.536,middle-aged adult,overweight,0,pink
+1014,59,male,25.46,0,no,northwest,12124.9924,mature adult,overweight,2,purple
+1015,19,female,24.605,1,no,northwest,2709.24395,young adult,healthy weight,0,pink
+1016,26,female,34.2,2,no,southwest,3987.926,young adult,obese,0,pink
+1017,54,female,35.815,3,no,northwest,12495.29085,mature adult,obese,2,purple
+1018,21,female,32.68,2,no,northwest,26018.95052,young adult,obese,1,dark pink
+1019,51,male,37.0,0,no,southwest,8798.593,mature adult,obese,2,purple
+1020,22,female,31.02,3,yes,southeast,35595.5898,young adult,obese,3,dark purple
+1021,47,male,36.08,1,yes,southeast,42211.1382,middle-aged adult,obese,3,dark purple
+1022,18,male,23.32,1,no,southeast,1711.0268,young adult,healthy weight,0,pink
+1023,47,female,45.32,1,no,southeast,8569.8618,middle-aged adult,obese,2,purple
+1024,21,female,34.6,0,no,southwest,2020.177,young adult,obese,0,pink
+1025,19,male,26.03,1,yes,northwest,16450.8947,young adult,overweight,2,purple
+1026,23,male,18.715,0,no,northwest,21595.38229,young adult,healthy weight,1,dark pink
+1027,54,male,31.6,0,no,southwest,9850.432,mature adult,obese,2,purple
+1028,37,female,17.29,2,no,northeast,6877.9801,middle-aged adult,underweight,0,pink
+1029,46,female,23.655,1,yes,northwest,21677.28345,middle-aged adult,healthy weight,1,dark pink
+1030,55,female,35.2,0,yes,southeast,44423.803,mature adult,obese,3,dark purple
+1031,30,female,27.93,0,no,northeast,4137.5227,young adult,overweight,0,pink
+1032,18,male,21.565,0,yes,northeast,13747.87235,young adult,healthy weight,2,purple
+1033,61,male,38.38,0,no,northwest,12950.0712,mature adult,obese,2,purple
+1034,54,female,23.0,3,no,southwest,12094.478,mature adult,healthy weight,2,purple
+1035,22,male,37.07,2,yes,southeast,37484.4493,young adult,obese,3,dark purple
+1036,45,female,30.495,1,yes,northwest,39725.51805,middle-aged adult,obese,3,dark purple
+1037,22,male,28.88,0,no,northeast,2250.8352,young adult,overweight,0,pink
+1038,19,male,27.265,2,no,northwest,22493.65964,young adult,overweight,1,dark pink
+1039,35,female,28.025,0,yes,northwest,20234.85475,middle-aged adult,overweight,1,dark pink
+1040,18,male,23.085,0,no,northeast,1704.70015,young adult,healthy weight,0,pink
+1041,20,male,30.685,0,yes,northeast,33475.81715,young adult,obese,3,dark purple
+1042,28,female,25.8,0,no,southwest,3161.454,young adult,overweight,0,pink
+1043,55,male,35.245,1,no,northeast,11394.06555,mature adult,obese,2,purple
+1044,43,female,24.7,2,yes,northwest,21880.82,middle-aged adult,healthy weight,1,dark pink
+1045,43,female,25.08,0,no,northeast,7325.0482,middle-aged adult,overweight,0,pink
+1046,22,male,52.58,1,yes,southeast,44501.3982,young adult,obese,3,dark purple
+1047,25,female,22.515,1,no,northwest,3594.17085,young adult,healthy weight,0,pink
+1048,49,male,30.9,0,yes,southwest,39727.614,middle-aged adult,obese,3,dark purple
+1049,44,female,36.955,1,no,northwest,8023.13545,middle-aged adult,obese,2,purple
+1050,64,male,26.41,0,no,northeast,14394.5579,mature adult,overweight,2,purple
+1051,49,male,29.83,1,no,northeast,9288.0267,middle-aged adult,overweight,2,purple
+1052,47,male,29.8,3,yes,southwest,25309.489,middle-aged adult,overweight,1,dark pink
+1053,27,female,21.47,0,no,northwest,3353.4703,young adult,healthy weight,0,pink
+1054,55,male,27.645,0,no,northwest,10594.50155,mature adult,overweight,2,purple
+1055,48,female,28.9,0,no,southwest,8277.523,middle-aged adult,overweight,2,purple
+1056,45,female,31.79,0,no,southeast,17929.30337,middle-aged adult,obese,1,dark pink
+1057,24,female,39.49,0,no,southeast,2480.9791,young adult,obese,0,pink
+1058,32,male,33.82,1,no,northwest,4462.7218,young adult,obese,0,pink
+1059,24,male,32.01,0,no,southeast,1981.5819,young adult,obese,0,pink
+1060,57,male,27.94,1,no,southeast,11554.2236,mature adult,overweight,2,purple
+1061,59,male,41.14,1,yes,southeast,48970.2476,mature adult,obese,3,dark purple
+1062,36,male,28.595,3,no,northwest,6548.19505,middle-aged adult,overweight,0,pink
+1063,29,female,25.6,4,no,southwest,5708.867,young adult,overweight,0,pink
+1064,42,female,25.3,1,no,southwest,7045.499,middle-aged adult,overweight,0,pink
+1065,48,male,37.29,2,no,southeast,8978.1851,middle-aged adult,obese,2,purple
+1066,39,male,42.655,0,no,northeast,5757.41345,middle-aged adult,obese,0,pink
+1067,63,male,21.66,1,no,northwest,14349.8544,mature adult,healthy weight,2,purple
+1068,54,female,31.9,1,no,southeast,10928.849,mature adult,obese,2,purple
+1069,37,male,37.07,1,yes,southeast,39871.7043,middle-aged adult,obese,3,dark purple
+1070,63,male,31.445,0,no,northeast,13974.45555,mature adult,obese,2,purple
+1071,21,male,31.255,0,no,northwest,1909.52745,young adult,obese,0,pink
+1072,54,female,28.88,2,no,northeast,12096.6512,mature adult,overweight,2,purple
+1073,60,female,18.335,0,no,northeast,13204.28565,mature adult,underweight,2,purple
+1074,32,female,29.59,1,no,southeast,4562.8421,young adult,overweight,0,pink
+1075,47,female,32.0,1,no,southwest,8551.347,middle-aged adult,obese,2,purple
+1076,21,male,26.03,0,no,northeast,2102.2647,young adult,overweight,0,pink
+1077,28,male,31.68,0,yes,southeast,34672.1472,young adult,obese,3,dark purple
+1078,63,male,33.66,3,no,southeast,15161.5344,mature adult,obese,2,purple
+1079,18,male,21.78,2,no,southeast,11884.04858,young adult,healthy weight,2,purple
+1080,32,male,27.835,1,no,northwest,4454.40265,young adult,overweight,0,pink
+1081,38,male,19.95,1,no,northwest,5855.9025,middle-aged adult,healthy weight,0,pink
+1082,32,male,31.5,1,no,southwest,4076.497,young adult,obese,0,pink
+1083,62,female,30.495,2,no,northwest,15019.76005,mature adult,obese,2,purple
+1084,39,female,18.3,5,yes,southwest,19023.26,middle-aged adult,underweight,1,dark pink
+1085,55,male,28.975,0,no,northeast,10796.35025,mature adult,overweight,2,purple
+1086,57,male,31.54,0,no,northwest,11353.2276,mature adult,obese,2,purple
+1087,52,male,47.74,1,no,southeast,9748.9106,mature adult,obese,2,purple
+1088,56,male,22.1,0,no,southwest,10577.087,mature adult,healthy weight,2,purple
+1089,47,male,36.19,0,yes,southeast,41676.0811,middle-aged adult,obese,3,dark purple
+1090,55,female,29.83,0,no,northeast,11286.5387,mature adult,overweight,2,purple
+1091,23,male,32.7,3,no,southwest,3591.48,young adult,obese,0,pink
+1092,22,female,30.4,0,yes,northwest,33907.548,young adult,obese,3,dark purple
+1093,50,female,33.7,4,no,southwest,11299.343,mature adult,obese,2,purple
+1094,18,female,31.35,4,no,northeast,4561.1885,young adult,obese,0,pink
+1095,51,female,34.96,2,yes,northeast,44641.1974,mature adult,obese,3,dark purple
+1096,22,male,33.77,0,no,southeast,1674.6323,young adult,obese,0,pink
+1097,52,female,30.875,0,no,northeast,23045.56616,mature adult,obese,1,dark pink
+1098,25,female,33.99,1,no,southeast,3227.1211,young adult,obese,0,pink
+1099,33,female,19.095,2,yes,northeast,16776.30405,young adult,healthy weight,2,purple
+1100,53,male,28.6,3,no,southwest,11253.421,mature adult,overweight,2,purple
+1101,29,male,38.94,1,no,southeast,3471.4096,young adult,obese,0,pink
+1102,58,male,36.08,0,no,southeast,11363.2832,mature adult,obese,2,purple
+1103,37,male,29.8,0,no,southwest,20420.60465,middle-aged adult,overweight,1,dark pink
+1104,54,female,31.24,0,no,southeast,10338.9316,mature adult,obese,2,purple
+1105,49,female,29.925,0,no,northwest,8988.15875,middle-aged adult,overweight,2,purple
+1106,50,female,26.22,2,no,northwest,10493.9458,mature adult,overweight,2,purple
+1107,26,male,30.0,1,no,southwest,2904.088,young adult,obese,0,pink
+1108,45,male,20.35,3,no,southeast,8605.3615,middle-aged adult,healthy weight,2,purple
+1109,54,female,32.3,1,no,northeast,11512.405,mature adult,obese,2,purple
+1110,38,male,38.39,3,yes,southeast,41949.2441,middle-aged adult,obese,3,dark purple
+1111,48,female,25.85,3,yes,southeast,24180.9335,middle-aged adult,overweight,1,dark pink
+1112,28,female,26.315,3,no,northwest,5312.16985,young adult,overweight,0,pink
+1113,23,male,24.51,0,no,northeast,2396.0959,young adult,healthy weight,0,pink
+1114,55,male,32.67,1,no,southeast,10807.4863,mature adult,obese,2,purple
+1115,41,male,29.64,5,no,northeast,9222.4026,middle-aged adult,overweight,2,purple
+1116,25,male,33.33,2,yes,southeast,36124.5737,young adult,obese,3,dark purple
+1117,33,male,35.75,1,yes,southeast,38282.7495,young adult,obese,3,dark purple
+1118,30,female,19.95,3,no,northwest,5693.4305,young adult,healthy weight,0,pink
+1119,23,female,31.4,0,yes,southwest,34166.273,young adult,obese,3,dark purple
+1120,46,male,38.17,2,no,southeast,8347.1643,middle-aged adult,obese,2,purple
+1121,53,female,36.86,3,yes,northwest,46661.4424,mature adult,obese,3,dark purple
+1122,27,female,32.395,1,no,northeast,18903.49141,young adult,obese,1,dark pink
+1123,23,female,42.75,1,yes,northeast,40904.1995,young adult,obese,3,dark purple
+1124,63,female,25.08,0,no,northwest,14254.6082,mature adult,overweight,2,purple
+1125,55,male,29.9,0,no,southwest,10214.636,mature adult,overweight,2,purple
+1126,35,female,35.86,2,no,southeast,5836.5204,middle-aged adult,obese,0,pink
+1127,34,male,32.8,1,no,southwest,14358.36437,young adult,obese,2,purple
+1128,19,female,18.6,0,no,southwest,1728.897,young adult,healthy weight,0,pink
+1129,39,female,23.87,5,no,southeast,8582.3023,middle-aged adult,healthy weight,2,purple
+1130,27,male,45.9,2,no,southwest,3693.428,young adult,obese,0,pink
+1131,57,male,40.28,0,no,northeast,20709.02034,mature adult,obese,1,dark pink
+1132,52,female,18.335,0,no,northwest,9991.03765,mature adult,underweight,2,purple
+1133,28,male,33.82,0,no,northwest,19673.33573,young adult,obese,1,dark pink
+1134,50,female,28.12,3,no,northwest,11085.5868,mature adult,overweight,2,purple
+1135,44,female,25.0,1,no,southwest,7623.518,middle-aged adult,overweight,0,pink
+1136,26,female,22.23,0,no,northwest,3176.2877,young adult,healthy weight,0,pink
+1137,33,male,30.25,0,no,southeast,3704.3545,young adult,obese,0,pink
+1138,19,female,32.49,0,yes,northwest,36898.73308,young adult,obese,3,dark purple
+1139,50,male,37.07,1,no,southeast,9048.0273,mature adult,obese,2,purple
+1140,41,female,32.6,3,no,southwest,7954.517,middle-aged adult,obese,2,purple
+1141,52,female,24.86,0,no,southeast,27117.99378,mature adult,healthy weight,1,dark pink
+1142,39,male,32.34,2,no,southeast,6338.0756,middle-aged adult,obese,0,pink
+1143,50,male,32.3,2,no,southwest,9630.397,mature adult,obese,2,purple
+1144,52,male,32.775,3,no,northwest,11289.10925,mature adult,obese,2,purple
+1145,60,male,32.8,0,yes,southwest,52590.82939,mature adult,obese,3,dark purple
+1146,20,female,31.92,0,no,northwest,2261.5688,young adult,obese,0,pink
+1147,55,male,21.5,1,no,southwest,10791.96,mature adult,healthy weight,2,purple
+1148,42,male,34.1,0,no,southwest,5979.731,middle-aged adult,obese,0,pink
+1149,18,female,30.305,0,no,northeast,2203.73595,young adult,obese,0,pink
+1150,58,female,36.48,0,no,northwest,12235.8392,mature adult,obese,2,purple
+1151,43,female,32.56,3,yes,southeast,40941.2854,middle-aged adult,obese,3,dark purple
+1152,35,female,35.815,1,no,northwest,5630.45785,middle-aged adult,obese,0,pink
+1153,48,female,27.93,4,no,northwest,11015.1747,middle-aged adult,overweight,2,purple
+1154,36,female,22.135,3,no,northeast,7228.21565,middle-aged adult,healthy weight,0,pink
+1155,19,male,44.88,0,yes,southeast,39722.7462,young adult,obese,3,dark purple
+1156,23,female,23.18,2,no,northwest,14426.07385,young adult,healthy weight,2,purple
+1157,20,female,30.59,0,no,northeast,2459.7201,young adult,obese,0,pink
+1158,32,female,41.1,0,no,southwest,3989.841,young adult,obese,0,pink
+1159,43,female,34.58,1,no,northwest,7727.2532,middle-aged adult,obese,0,pink
+1160,34,male,42.13,2,no,southeast,5124.1887,young adult,obese,0,pink
+1161,30,male,38.83,1,no,southeast,18963.17192,young adult,obese,1,dark pink
+1162,18,female,28.215,0,no,northeast,2200.83085,young adult,overweight,0,pink
+1163,41,female,28.31,1,no,northwest,7153.5539,middle-aged adult,overweight,0,pink
+1164,35,female,26.125,0,no,northeast,5227.98875,middle-aged adult,overweight,0,pink
+1165,57,male,40.37,0,no,southeast,10982.5013,mature adult,obese,2,purple
+1166,29,female,24.6,2,no,southwest,4529.477,young adult,healthy weight,0,pink
+1167,32,male,35.2,2,no,southwest,4670.64,young adult,obese,0,pink
+1168,37,female,34.105,1,no,northwest,6112.35295,middle-aged adult,obese,0,pink
+1169,18,male,27.36,1,yes,northeast,17178.6824,young adult,overweight,1,dark pink
+1170,43,female,26.7,2,yes,southwest,22478.6,middle-aged adult,overweight,1,dark pink
+1171,56,female,41.91,0,no,southeast,11093.6229,mature adult,obese,2,purple
+1172,38,male,29.26,2,no,northwest,6457.8434,middle-aged adult,overweight,0,pink
+1173,29,male,32.11,2,no,northwest,4433.9159,young adult,obese,0,pink
+1174,22,female,27.1,0,no,southwest,2154.361,young adult,overweight,0,pink
+1175,52,female,24.13,1,yes,northwest,23887.6627,mature adult,healthy weight,1,dark pink
+1176,40,female,27.4,1,no,southwest,6496.886,middle-aged adult,overweight,0,pink
+1177,23,female,34.865,0,no,northeast,2899.48935,young adult,obese,0,pink
+1178,31,male,29.81,0,yes,southeast,19350.3689,young adult,overweight,1,dark pink
+1179,42,female,41.325,1,no,northeast,7650.77375,middle-aged adult,obese,0,pink
+1180,24,female,29.925,0,no,northwest,2850.68375,young adult,overweight,0,pink
+1181,25,female,30.3,0,no,southwest,2632.992,young adult,obese,0,pink
+1182,48,female,27.36,1,no,northeast,9447.3824,middle-aged adult,overweight,2,purple
+1183,23,female,28.49,1,yes,southeast,18328.2381,young adult,overweight,1,dark pink
+1184,45,male,23.56,2,no,northeast,8603.8234,middle-aged adult,healthy weight,2,purple
+1185,20,male,35.625,3,yes,northwest,37465.34375,young adult,obese,3,dark purple
+1186,62,female,32.68,0,no,northwest,13844.7972,mature adult,obese,2,purple
+1187,43,female,25.27,1,yes,northeast,21771.3423,middle-aged adult,overweight,1,dark pink
+1188,23,female,28.0,0,no,southwest,13126.67745,young adult,overweight,2,purple
+1189,31,female,32.775,2,no,northwest,5327.40025,young adult,obese,0,pink
+1190,41,female,21.755,1,no,northeast,13725.47184,middle-aged adult,healthy weight,2,purple
+1191,58,female,32.395,1,no,northeast,13019.16105,mature adult,obese,2,purple
+1192,48,female,36.575,0,no,northwest,8671.19125,middle-aged adult,obese,2,purple
+1193,31,female,21.755,0,no,northwest,4134.08245,young adult,healthy weight,0,pink
+1194,19,female,27.93,3,no,northwest,18838.70366,young adult,overweight,1,dark pink
+1195,19,female,30.02,0,yes,northwest,33307.5508,young adult,obese,3,dark purple
+1196,41,male,33.55,0,no,southeast,5699.8375,middle-aged adult,obese,0,pink
+1197,40,male,29.355,1,no,northwest,6393.60345,middle-aged adult,overweight,0,pink
+1198,31,female,25.8,2,no,southwest,4934.705,young adult,overweight,0,pink
+1199,37,male,24.32,2,no,northwest,6198.7518,middle-aged adult,healthy weight,0,pink
+1200,46,male,40.375,2,no,northwest,8733.22925,middle-aged adult,obese,2,purple
+1201,22,male,32.11,0,no,northwest,2055.3249,young adult,obese,0,pink
+1202,51,male,32.3,1,no,northeast,9964.06,mature adult,obese,2,purple
+1203,18,female,27.28,3,yes,southeast,18223.4512,young adult,overweight,1,dark pink
+1204,35,male,17.86,1,no,northwest,5116.5004,middle-aged adult,underweight,0,pink
+1205,59,female,34.8,2,no,southwest,36910.60803,mature adult,obese,3,dark purple
+1206,36,male,33.4,2,yes,southwest,38415.474,middle-aged adult,obese,3,dark purple
+1207,37,female,25.555,1,yes,northeast,20296.86345,middle-aged adult,overweight,1,dark pink
+1208,59,male,37.1,1,no,southwest,12347.172,mature adult,obese,2,purple
+1209,36,male,30.875,1,no,northwest,5373.36425,middle-aged adult,obese,0,pink
+1210,39,male,34.1,2,no,southeast,23563.01618,middle-aged adult,obese,1,dark pink
+1211,18,male,21.47,0,no,northeast,1702.4553,young adult,healthy weight,0,pink
+1212,52,female,33.3,2,no,southwest,10806.839,mature adult,obese,2,purple
+1213,27,female,31.255,1,no,northwest,3956.07145,young adult,obese,0,pink
+1214,18,male,39.14,0,no,northeast,12890.05765,young adult,obese,2,purple
+1215,40,male,25.08,0,no,southeast,5415.6612,middle-aged adult,overweight,0,pink
+1216,29,male,37.29,2,no,southeast,4058.1161,young adult,obese,0,pink
+1217,46,female,34.6,1,yes,southwest,41661.602,middle-aged adult,obese,3,dark purple
+1218,38,female,30.21,3,no,northwest,7537.1639,middle-aged adult,obese,0,pink
+1219,30,female,21.945,1,no,northeast,4718.20355,young adult,healthy weight,0,pink
+1220,40,male,24.97,2,no,southeast,6593.5083,middle-aged adult,healthy weight,0,pink
+1221,50,male,25.3,0,no,southeast,8442.667,mature adult,overweight,2,purple
+1222,20,female,24.42,0,yes,southeast,26125.67477,young adult,healthy weight,1,dark pink
+1223,41,male,23.94,1,no,northeast,6858.4796,middle-aged adult,healthy weight,0,pink
+1224,33,female,39.82,1,no,southeast,4795.6568,young adult,obese,0,pink
+1225,38,male,16.815,2,no,northeast,6640.54485,middle-aged adult,underweight,0,pink
+1226,42,male,37.18,2,no,southeast,7162.0122,middle-aged adult,obese,0,pink
+1227,56,male,34.43,0,no,southeast,10594.2257,mature adult,obese,2,purple
+1228,58,male,30.305,0,no,northeast,11938.25595,mature adult,obese,2,purple
+1229,52,male,34.485,3,yes,northwest,60021.39897,mature adult,obese,3,dark purple
+1230,20,female,21.8,0,yes,southwest,20167.33603,young adult,healthy weight,1,dark pink
+1231,54,female,24.605,3,no,northwest,12479.70895,mature adult,healthy weight,2,purple
+1232,58,male,23.3,0,no,southwest,11345.519,mature adult,healthy weight,2,purple
+1233,45,female,27.83,2,no,southeast,8515.7587,middle-aged adult,overweight,2,purple
+1234,26,male,31.065,0,no,northwest,2699.56835,young adult,obese,0,pink
+1235,63,female,21.66,0,no,northeast,14449.8544,mature adult,healthy weight,2,purple
+1236,58,female,28.215,0,no,northwest,12224.35085,mature adult,overweight,2,purple
+1237,37,male,22.705,3,no,northeast,6985.50695,middle-aged adult,healthy weight,0,pink
+1238,25,female,42.13,1,no,southeast,3238.4357,young adult,obese,0,pink
+1239,52,male,41.8,2,yes,southeast,47269.854,mature adult,obese,3,dark purple
+1240,64,male,36.96,2,yes,southeast,49577.6624,mature adult,obese,3,dark purple
+1241,22,female,21.28,3,no,northwest,4296.2712,young adult,healthy weight,0,pink
+1242,28,female,33.11,0,no,southeast,3171.6149,young adult,obese,0,pink
+1243,18,male,33.33,0,no,southeast,1135.9407,young adult,obese,0,pink
+1244,28,male,24.3,5,no,southwest,5615.369,young adult,healthy weight,0,pink
+1245,45,female,25.7,3,no,southwest,9101.798,middle-aged adult,overweight,2,purple
+1246,33,male,29.4,4,no,southwest,6059.173,young adult,overweight,0,pink
+1247,18,female,39.82,0,no,southeast,1633.9618,young adult,obese,0,pink
+1248,32,male,33.63,1,yes,northeast,37607.5277,young adult,obese,3,dark purple
+1249,24,male,29.83,0,yes,northeast,18648.4217,young adult,overweight,1,dark pink
+1250,19,male,19.8,0,no,southwest,1241.565,young adult,healthy weight,0,pink
+1251,20,male,27.3,0,yes,southwest,16232.847,young adult,overweight,2,purple
+1252,40,female,29.3,4,no,southwest,15828.82173,middle-aged adult,overweight,2,purple
+1253,34,female,27.72,0,no,southeast,4415.1588,young adult,overweight,0,pink
+1254,42,female,37.9,0,no,southwest,6474.013,middle-aged adult,obese,0,pink
+1255,51,female,36.385,3,no,northwest,11436.73815,mature adult,obese,2,purple
+1256,54,female,27.645,1,no,northwest,11305.93455,mature adult,overweight,2,purple
+1257,55,male,37.715,3,no,northwest,30063.58055,mature adult,obese,1,dark pink
+1258,52,female,23.18,0,no,northeast,10197.7722,mature adult,healthy weight,2,purple
+1259,32,female,20.52,0,no,northeast,4544.2348,young adult,healthy weight,0,pink
+1260,28,male,37.1,1,no,southwest,3277.161,young adult,obese,0,pink
+1261,41,female,28.05,1,no,southeast,6770.1925,middle-aged adult,overweight,0,pink
+1262,43,female,29.9,1,no,southwest,7337.748,middle-aged adult,overweight,0,pink
+1263,49,female,33.345,2,no,northeast,10370.91255,middle-aged adult,obese,2,purple
+1264,64,male,23.76,0,yes,southeast,26926.5144,mature adult,healthy weight,1,dark pink
+1265,55,female,30.5,0,no,southwest,10704.47,mature adult,obese,2,purple
+1266,24,male,31.065,0,yes,northeast,34254.05335,young adult,obese,3,dark purple
+1267,20,female,33.3,0,no,southwest,1880.487,young adult,obese,0,pink
+1268,45,male,27.5,3,no,southwest,8615.3,middle-aged adult,overweight,2,purple
+1269,26,male,33.915,1,no,northwest,3292.52985,young adult,obese,0,pink
+1270,25,female,34.485,0,no,northwest,3021.80915,young adult,obese,0,pink
+1271,43,male,25.52,5,no,southeast,14478.33015,middle-aged adult,overweight,2,purple
+1272,35,male,27.61,1,no,southeast,4747.0529,middle-aged adult,overweight,0,pink
+1273,26,male,27.06,0,yes,southeast,17043.3414,young adult,overweight,1,dark pink
+1274,57,male,23.7,0,no,southwest,10959.33,mature adult,healthy weight,2,purple
+1275,22,female,30.4,0,no,northeast,2741.948,young adult,obese,0,pink
+1276,32,female,29.735,0,no,northwest,4357.04365,young adult,overweight,0,pink
+1277,39,male,29.925,1,yes,northeast,22462.04375,middle-aged adult,overweight,1,dark pink
+1278,25,female,26.79,2,no,northwest,4189.1131,young adult,overweight,0,pink
+1279,48,female,33.33,0,no,southeast,8283.6807,middle-aged adult,obese,2,purple
+1280,47,female,27.645,2,yes,northwest,24535.69855,middle-aged adult,overweight,1,dark pink
+1281,18,female,21.66,0,yes,northeast,14283.4594,young adult,healthy weight,2,purple
+1282,18,male,30.03,1,no,southeast,1720.3537,young adult,obese,0,pink
+1283,61,male,36.3,1,yes,southwest,47403.88,mature adult,obese,3,dark purple
+1284,47,female,24.32,0,no,northeast,8534.6718,middle-aged adult,healthy weight,2,purple
+1285,28,female,17.29,0,no,northeast,3732.6251,young adult,underweight,0,pink
+1286,36,female,25.9,1,no,southwest,5472.449,middle-aged adult,overweight,0,pink
+1287,20,male,39.4,2,yes,southwest,38344.566,young adult,obese,3,dark purple
+1288,44,male,34.32,1,no,southeast,7147.4728,middle-aged adult,obese,0,pink
+1289,38,female,19.95,2,no,northeast,7133.9025,middle-aged adult,healthy weight,0,pink
+1290,19,male,34.9,0,yes,southwest,34828.654,young adult,obese,3,dark purple
+1291,21,male,23.21,0,no,southeast,1515.3449,young adult,healthy weight,0,pink
+1292,46,male,25.745,3,no,northwest,9301.89355,middle-aged adult,overweight,2,purple
+1293,58,male,25.175,0,no,northeast,11931.12525,mature adult,overweight,2,purple
+1294,20,male,22.0,1,no,southwest,1964.78,young adult,healthy weight,0,pink
+1295,18,male,26.125,0,no,northeast,1708.92575,young adult,overweight,0,pink
+1296,28,female,26.51,2,no,southeast,4340.4409,young adult,overweight,0,pink
+1297,33,male,27.455,2,no,northwest,5261.46945,young adult,overweight,0,pink
+1298,19,female,25.745,1,no,northwest,2710.82855,young adult,overweight,0,pink
+1299,45,male,30.36,0,yes,southeast,62592.87309,middle-aged adult,obese,3,dark purple
+1300,62,male,30.875,3,yes,northwest,46718.16325,mature adult,obese,3,dark purple
+1301,25,female,20.8,1,no,southwest,3208.787,young adult,healthy weight,0,pink
+1302,43,male,27.8,0,yes,southwest,37829.7242,middle-aged adult,overweight,3,dark purple
+1303,42,male,24.605,2,yes,northeast,21259.37795,middle-aged adult,healthy weight,1,dark pink
+1304,24,female,27.72,0,no,southeast,2464.6188,young adult,overweight,0,pink
+1305,29,female,21.85,0,yes,northeast,16115.3045,young adult,healthy weight,2,purple
+1306,32,male,28.12,4,yes,northwest,21472.4788,young adult,overweight,1,dark pink
+1307,25,female,30.2,0,yes,southwest,33900.653,young adult,obese,3,dark purple
+1308,41,male,32.2,2,no,southwest,6875.961,middle-aged adult,obese,0,pink
+1309,42,male,26.315,1,no,northwest,6940.90985,middle-aged adult,overweight,0,pink
+1310,33,female,26.695,0,no,northwest,4571.41305,young adult,overweight,0,pink
+1311,34,male,42.9,1,no,southwest,4536.259,young adult,obese,0,pink
+1312,19,female,34.7,2,yes,southwest,36397.576,young adult,obese,3,dark purple
+1313,30,female,23.655,3,yes,northwest,18765.87545,young adult,healthy weight,1,dark pink
+1314,18,male,28.31,1,no,northeast,11272.33139,young adult,overweight,2,purple
+1315,19,female,20.6,0,no,southwest,1731.677,young adult,healthy weight,0,pink
+1316,18,male,53.13,0,no,southeast,1163.4627,young adult,obese,0,pink
+1317,35,male,39.71,4,no,northeast,19496.71917,middle-aged adult,obese,1,dark pink
+1318,39,female,26.315,2,no,northwest,7201.70085,middle-aged adult,overweight,0,pink
+1319,31,male,31.065,3,no,northwest,5425.02335,young adult,obese,0,pink
+1320,62,male,26.695,0,yes,northeast,28101.33305,mature adult,overweight,1,dark pink
+1321,62,male,38.83,0,no,southeast,12981.3457,mature adult,obese,2,purple
+1322,42,female,40.37,2,yes,southeast,43896.3763,middle-aged adult,obese,3,dark purple
+1323,31,male,25.935,1,no,northwest,4239.89265,young adult,overweight,0,pink
+1324,61,male,33.535,0,no,northeast,13143.33665,mature adult,obese,2,purple
+1325,42,female,32.87,0,no,northeast,7050.0213,middle-aged adult,obese,0,pink
+1326,51,male,30.03,1,no,southeast,9377.9047,mature adult,obese,2,purple
+1327,23,female,24.225,2,no,northeast,22395.74424,young adult,healthy weight,1,dark pink
+1328,52,male,38.6,2,no,southwest,10325.206,mature adult,obese,2,purple
+1329,57,female,25.74,2,no,southeast,12629.1656,mature adult,overweight,2,purple
+1330,23,female,33.4,0,no,southwest,10795.93733,young adult,obese,2,purple
+1331,52,female,44.7,3,no,southwest,11411.685,mature adult,obese,2,purple
+1332,50,male,30.97,3,no,northwest,10600.5483,mature adult,obese,2,purple
+1333,18,female,31.92,0,no,northeast,2205.9808,young adult,obese,0,pink
+1334,18,female,36.85,0,no,southeast,1629.8335,young adult,obese,0,pink
+1335,21,female,25.8,0,no,southwest,2007.945,young adult,overweight,0,pink
+1336,61,female,29.07,0,yes,northwest,29141.3603,mature adult,overweight,1,dark pink
