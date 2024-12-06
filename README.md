@@ -21,3 +21,6 @@ Plot Age vs. Charges.
 
 
 Final recommendation: The complex interplay between BMI, age and smoking suggests that random forest modeling would be suitable for the next phase of this project.
+
+
+**This is an educational project, developed to fullfill achievement 6.7 of the Data Analysis program of Career Foundry. Data used here was downloaded from Kaggle [here](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download) in October of 2025.**
